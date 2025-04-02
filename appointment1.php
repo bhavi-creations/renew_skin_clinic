@@ -13,7 +13,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $service = $_POST['service'] ?? '';
     $dr_name = $_POST['dr_name'] ?? '';
     $date_time = $_POST['date_time'] ?? '';
-
    
 
     // Create a new PHPMailer instance
@@ -25,7 +24,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
         $mail->Username = 'srihariskinclinic@gmail.com'; // Your Gmail email address
-        $mail->Password = ''; // Your Gmail password
+        $mail->Password = 'qtpbnrowxcomvegm'; // Your Gmail password
         $mail->SMTPSecure = 'tls';
         $mail->Port = 587;
 
@@ -35,22 +34,21 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         // Content
         $mail->isHTML(true);
-        $mail->Subject = 'New Message from Appointment Form';
+        $mail->Subject = 'New Message from Contact Form';
         $mail->Body = "
-            <h1>New Message From Sri Hari Skin Clinic</h1>
-            <p><strong>Name:</strong> $name</p>
-            <p><strong>Phone:</strong> $phone</p>
-            <p><strong>Email:</strong> $email</p>
-            <p><strong>Service:</strong> $service</p>
-            <p><strong>Dr_Name:</strong> $dr_name</p>
-            <p><strong>Date&Time:</strong> $date_time</p>
-
+        <h1>New Message From Sri Hari Skin Clinic</h1>
+        <p><strong>Name:</strong> $name</p>
+        <p><strong>Phone:</strong> $phone</p>
+        <p><strong>Email:</strong> $email</p>
+        <p><strong>Service:</strong> $service</p>
+        <p><strong>Dr_Name:</strong> $dr_name</p>
+        <p><strong>Date&Time:</strong> $date_time</p>
         ";
 
         $mail->send();
         echo '<SCRIPT>
         window.alert("submitted Successfully")
-        window.location.href="index.php"</SCRIPT>';
+        window.location.href="appointment.php"</SCRIPT>';
     } catch (Exception $e) {
         echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
     }

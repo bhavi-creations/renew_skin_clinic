@@ -2276,7 +2276,9 @@ textarea.form-control.is-invalid {
 }
 
 .bg-title {
-  background-color: var(--title-color) !important;
+  background-color: #9488b7
+
+  !important;
 }
 
 .bg-light2 {
@@ -11266,4 +11268,28 @@ blockquote cite:before {
 .circle_btn{
   visibility: hidden; opacity: 0;
 }
+}
+
+
+
+
+
+/* copy  */
+.marquee-section {
+  background: linear-gradient(to Left, #e446b4, #b92a7e, #d74097, #e446b4) !important;
+  color: white;
+  padding: 8px 0px 0px 6px;
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center; */
+}
+
+/* .marquee_section{
+  background: linear-gradient(to Left, #e446b4, #b92a7e, #d74097, #e446b4) !important !important !important; 
+  color: white !important;
+  
+} */
+
+#marquee_section{
+  color: white !important;  
 }
