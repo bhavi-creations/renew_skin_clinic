@@ -4,7 +4,7 @@
 ============================== -->
 
         <div class="breadcumb-wrapper  w-auto ">
-            <img class="mobileimg mobimg" src="./assets/img/Hairfall Treatment (PRP & GFC) (1).jpg" class="img-fluid" width="6000px" />
+            <img class="mobileimg mobimg" src="assets\img\services_images\4.png" class="img-fluid" width="6000px" />
         </div>
 
    
@@ -16,17 +16,21 @@
             <div class="row">
                 <div class="container">
                     <div class="row  text-center justify-content-center">
-                        <div class="col-md-10 col-lg-8 col-xl-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="col-12 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                             <div class="section-title">
                                 <span class="h3 text-theme sec-subtitle" style="font-size:45px">Hairfall Treatments</span>
-                                <p>At Sri Hari Skin & Kidney Clinic, our innovative hairfall treatments, including PRP and GFC, provide effective and lasting solutions for fuller, healthier hair.</p>
+                                <p>Restore your hair’s strength and vitality with our advanced Hairfall Treatments at Renew Hair and Skin Clinic. From PRP to GFC therapy, we offer personalized solutions for healthier, fuller hair. Book your consultation today.</p>
                             </div>
+                            
                         </div>
+                        <div class="col-12 col-md-6">
+                            <img src="assets/img/hairfall treatment  middle image.jpg" alt="Service Image" class="w-100">
+
+                            </div>
                     </div>
                 <div class="col-12">
                     <div class="service-content mb-30">
                         <!-- <div class="vs-surface wow" data-wow-delay="0.3s"> -->
-                            <img src="assets/img/hairfall treatment  middle image.jpg" alt="Service Image" class="w-100">
                         </div>
                         <!-- <div class="row justify-content-center">
                             <div class="col-xl-11 col-xxl-10 ">
@@ -91,7 +95,7 @@
                             </div>
                         </div>
                         <h3>Reclaim Your Crowning Glory:</h3>
-                        <p>Regain confidence and embrace a fuller head of hair with our advanced hairfall solutions at Sri Hari Clinic. Book your consultation now for a future with healthier, revitalized hair. </p>
+                        <p>Restore your confidence and achieve thicker, healthier hair with our advanced hairfall treatments at Renew Hair and Skin Clinic. Schedule your consultation today for stronger, revitalized hair!. </p>
                     </div>
                 </div>
             </div>

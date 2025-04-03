@@ -4,7 +4,7 @@
 ============================== -->
 
     <div class="breadcumb-wrapper  w-auto ">
-        <img class="mobileimg mobimg" src="./assets/img/Phototherapy.jpg" class="img-fluid"  width="6000px" />
+        <img class="mobileimg mobimg" src="assets\img\services_images\9.png" class="img-fluid"  width="6000px" />
     </div>
 
     <!--==============================
@@ -15,17 +15,20 @@
             <div class="row">
                 <div class="container">
                     <div class="row  text-center justify-content-center">
-                        <div class="col-md-10 col-lg-8 col-xl-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="col-12 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                             <div class="section-title">
                                 <span class="h3 text-theme sec-subtitle" style="font-size:45px">Phototherapy </span>
-                                <p>Bid farewell to the struggles of traditional skin treatments. At Sri Hari Skin & Kidney Clinic, our Phototherapy offers a modern and effective solution for achieving radiant and flawless skin.</p>
+                                <p>Illuminate your skin’s health with Phototherapy at Renew Hair and Skin Clinic. This advanced treatment targets skin conditions like psoriasis and vitiligo, promoting healing and restoring your natural glow. Schedule your consultation today for healthier skin</p>
                             </div>
+                        </div>
+                        <div class="col-12 col-md-6">
+                        <img src="assets/img/phototherapy  middle image.jpg" alt="Service Image" class="w-100">
+
                         </div>
                     </div>
                 <div class="col-12">
                     <div class="service-content mb-30">
                         <!-- <div class="vs-surface wow" data-wow-delay="0.3s"> -->
-                            <img src="assets/img/phototherapy  middle image.jpg" alt="Service Image" class="w-100">
                         </div>
                         <!-- <div class="row justify-content-center">
                             <div class="col-xl-11 col-xxl-10 ">
@@ -52,30 +55,37 @@
                         </div> -->
 
 
-                        <p class="fs-md text-title mb-4 pb-2" style="color:p">Phototherapy for Radiant Skin at Sri Hari Clinic: Embrace Effortless Beauty</p>
-                        <p class="fs-md text-title mb-4 pb-2">Bid farewell to the struggles of traditional skin treatments. At Sri Hari Skin & Kidney Clinic, our Phototherapy offers a modern and effective solution for achieving radiant and flawless skin.</p>
-                        <!-- <h1 style="font-size:20px"> Precision and Perfection</h1>
-                        <p>Our advanced laser technology precisely targets hair follicles, ensuring effective and long-lasting results.</p> -->
-                        <p> <span class="hello">  Precision and Perfection :</span> Our advanced phototherapy technology precisely targets skin concerns, ensuring effective and lasting results.
+                        <p class="fs-md text-title mb-4 pb-2" style="color:p">Phototherapy: Advanced Light-Based Skin Treatment</p>
+                        <p class="fs-md text-title mb-4 pb-2">Phototherapy is a safe and effective treatment that uses controlled light exposure to manage various skin conditions. It helps reduce inflammation, promote healing, and improve overall skin health with minimal side effects.</p>
+                      
+                      
+                        <h1 style="font-size:20px"> Why Choose Phototherapy?</h1>
+                        <!-- <p>Our advanced laser technology precisely targets hair follicles, ensuring effective and long-lasting results.</p> -->
+                        <p> <span class="hello"> ✅ Clinically Proven –</span>  Safe and effective for various skin disorders.
                         </p>
-                        <p> <span class="hello"> Comfortable Sessions :</span>  Experience virtually painless sessions with our state-of-the-art phototherapy technology, designed with your comfort in mind.
+                        <p> <span class="hello">  ✅ Non-Invasive & Painless –</span>  Requires no surgery or harsh chemicals.
                         </p>
-                        <p> <span class="hello">  Expert Guidance :</span>Under the care of our experienced dermatologist, each treatment is personalized to address your unique skin type and concerns for optimal results.
+                        <p> <span class="hello"> ✅ Targeted Treatment –</span> Focuses on affected areas without damaging healthy skin
                         </p>
 
 
-                        <p class="fs-md text-title mb-4 pb-2" style="color:p">Why Choose Phototherapy at Sri Hari?</p>
-                        <p> <span class="hello"> Safe and Proven :</span>   Our treatments are conducted by skilled professionals in a controlled environment, ensuring safety and efficacy.
+
+                        <p class="fs-md text-title mb-4 pb-2" style="color:p">Key Benefits of Phototherapy</p>
+                        <p> <span class="hello">🔹 Treats Chronic Skin Conditions –</span>  Effective for psoriasis, eczema, and vitiligo.
                         </p>
-                        <p> <span class="hello">Holistic Approach :</span> Benefit from the holistic approach of Sri Hari Clinic, where your overall skin health is considered in every procedure.
+                        <p> <span class="hello">🔹 Reduces Inflammation & Redness – </span> Calms irritated skin and promotes healing.
+
+                        <p> <span class="hello">🔹 Boosts Collagen Production – </span> Helps improve skin texture and elasticity.
                         </p>
                        
-                        <p class="fs-md text-title mb-4 pb-2" style="color:p">The Process:</p>
-                        <p> <span class="hello" style="color: #27477d;"> Consultation :</span>  Begin with a personalized consultation with our dermatologist to assess your skin concerns and determine the most suitable phototherapy treatment.
+
+
+                        <p class="fs-md text-title mb-4 pb-2" style="color:p">The Phototherapy Process</p>
+                        <p> <span class="hello" style="color: #27477d;">  1️⃣ Consultation & Skin Assessment –</span>  Determines the right type of light therapy.
                         </p>
-                        <p> <span class="hello" style="color: #27477d;"> Treatment Sessions :</span>  Engage in a series of sessions strategically spaced for optimal results, targeting specific skin concerns with precision.
+                        <p> <span class="hello" style="color: #27477d;">2️⃣ Customized Light Exposure – </span>  Uses UV or LED light based on skin concerns.
                         </p>
-                        <p> <span class="hello" style="color: #27477d;"> Post-Treatment Care :</span> Our team provides guidance on post-treatment care to enhance and prolong the results.
+                        <p> <span class="hello" style="color: #27477d;"> 3️⃣ Short & Painless Sessions – </span>Quick treatment with no discomfort.
                         </p>
 
 
@@ -92,7 +102,7 @@
                             </div>
                         </div>
                         <h3>Experience the Radiance of Healthy Skin:</h3>
-                        <p>Reclaim your confidence and unveil the beauty of radiant skin with Phototherapy at Sri Hari Clinic. Book your consultation now for a luminous and flawless future.</p>
+                        <p>Restore your confidence and reveal your skin’s natural glow with Phototherapy at Renew Hair and Skin Clinic. Schedule your consultation today for a brighter, healthier future</p>
                     </div>
                 </div>
             </div>

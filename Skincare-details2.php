@@ -4,7 +4,7 @@
 ============================== -->
 
     <div class="breadcumb-wrapper  w-auto ">
-        <img class="mobileimg mobimg" src="./assets/img/pigmentation.jpg" class="img-fluid"  width="6000px" />
+        <img class="mobileimg mobimg" src="assets\img\services_images\2.png" class="img-fluid"  width="6000px" />
     </div>
 
     <!--==============================
@@ -15,17 +15,19 @@
             <div class="row">
                 <div class="container">
                     <div class="row  text-center justify-content-center">
-                        <div class="col-md-10 col-lg-8 col-xl-6 wow fadeInUp" data-wow-delay="0.3s">
-                            <div class="section-title">
+                        <div class="col-12 col-md-6  d-flex flex-direction-row align-items-center wow fadeInUp" data-wow-delay="0.3s">
+                            <div class="section-title ">
                                 <span class="h3 text-theme sec-subtitle" style="font-size:45px">Hyperpigmentation </span>
-                                <p> Say goodbye to the inconvenience of concealing pigmented spots and welcome a clearer, more even skin tone effortlessly.</p>
+                                <p> Achieve a brighter, even-toned complexion with our Hyperpigmentation Treatment at Renew Hair and Skin Clinic. Our expert solutions target dark spots and uneven skin tone effectively. Book your consultation today for radiant, flawless skin</p>
                             </div>
+                        </div>
+                        <div class="col-12 col-md-6"> 
+                               <img src="assets\img\services_images\Hyperpigmentation.png" alt="Service Image" class="w-100">
                         </div>
                     </div>
                 <div class="col-12">
                     <div class="service-content mb-30">
                         <!-- <div class="vs-surface wow" data-wow-delay="0.3s"> -->
-                            <img src="assets/img/Hyperpigmentation middle image.jpg" alt="Service Image" class="w-100">
                         </div>
                         <!-- <div class="row justify-content-center">
                             <div class="col-xl-11 col-xxl-10 ">
@@ -84,20 +86,20 @@
                         <p> <span class="hello" style="color: #27477d"> 4️⃣ Post-Treatment Care –  </span>                 Sun protection and hydration are essential to maintain and enhance results
                         </p>
 
-       €
+      
                         <div class="row mt-40 mb-20">
-                            <div class="col-lg-4 mb-30">
-                                <img src="assets/img/hyperpigmentation footer image 1.jpg" alt="Service Image" class="w-100">
+                        <div class="col-lg-4 mb-30">
+                                <img src="assets\img\services_images\hyper1.png" alt="Service Image" class="w-70 h-70">
+                            </div>
+                            <div class="col-lg-4 mb-30"> 
+                                <img src="assets\img\services_images\hyper2.png" alt="Service Image" class="w-70 h-70">
                             </div>
                             <div class="col-lg-4 mb-30">
-                                <img src="assets/img/hyperpigmentation footer image 2.jpg" alt="Service Image" class="w-100">
-                            </div>
-                            <div class="col-lg-4 mb-30">
-                                <img src="assets/img/hyperpigmentation footer image 3.jpg" alt="Service Image" class="w-100">
+                                <img src="assets\img\services_images\hyper3.png" alt="Service Image" class="w-70 h-70">
                             </div>
                         </div>
                         <h3>Experience the Freedom of Radiant Skin:</h3>
-                        <p>Reclaim your confidence and reveal a more radiant complexion with Hyperpigmentation Treatment at Sri Hari Clinic. Book your consultation now for a brighter, even-toned future.</p>
+                        <p>Restore your confidence and achieve a luminous, even-toned complexion with Hyperpigmentation Treatment at Renew Hair and Skin Clinic. Book your consultation today for a brighter, more radiant future!</p>
                     </div>
                 </div>
             </div>

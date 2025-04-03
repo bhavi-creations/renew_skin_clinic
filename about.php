@@ -4,148 +4,7 @@
         <img class="mobileimg mobimg" src="./assets/img/sriabout.png" class="img-fluid"  width="6000px" />
     </div> 
    
-    <!--==============================
-    About Area
-    ==============================-->
-    <!-- <section class="vs-about-wrapper p-5 mb-4">
-        <div class="container-fluid">
-            <div class="row flex-row-reverse">
-                <div class="col-lg-6 mb-40 mb-lg-0">
-                   
-                            <img src="assets/img/abbout us side image.jpg" alt="About Image" class="w-100">
-
-                </div>
-                <div class="col-lg-6 align-self-center ">
-                    <div class="about-content mb-2 ">
-                     
-                        <div class="row">
-                            <div class="col-xl-10">
-                                <h2 class="h1 mb-3" style="font-size:34px">Discover Comprehensive Health Solutions
-                                </h2>
-                            </div>
-                            <div class="col-xl-10">
-                                <p class="mb-4">Discover a healthcare sanctuary at Sri Hari Clinic, where dermatology and Nephrology expertise converge to provide integrated care. Our skilled team of professionals is dedicated to your well-being, offering personalised solutions for skin and kidney health. Experience advanced treatments, cutting-edge technology, and a commitment to your unique health journey. Your health, our priority. 
-                                </p>
-                            </div>
-                        </div>
-                        <div class="media-style1">
-                            <div class="media-icon"><i class="fas fa-phone"></i></div>
-                            <div class="media-body">
-                                <h3 class="media-title">CALL</h3>
-                                <p class="media-text"><a href="tel:+4412345996">+91 6301931396</a></p>
-                            </div>
-                        </div>
-                      
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
-    
-        <!--==============================
-    Skill Area
-    ==============================-->
-        <!-- <section class="vs-skill-wrapper  ">
-            <div class="container">
-                <div class="skill-wrap1 bg-white">
-                    <div class="row justify-content-center justify-content-lg-between">
-                        <div class="col-md-6 col-lg-auto  mb-30">
-                            <div class="d-xl-flex text-center text-xl-start skill-box">
-                                <span class="ripple-icon hover-style2  align-self-start mb-20 mb-xl-0 mr-20"><i class="flaticon-discuss"></i></span>
-                                <div class="media-body">
-                                    <h2 class="mt-n2 mb-0 text-theme">30+</h2>
-                                    <p class="text-title fs-md fw-medium mt-1 mt-xl-0 mb-2 mb-xl-2">Years Of Experience</p>
-                                    <p class="fs-xs mb-0">Incubate extensive scenarios without top-line quality vectors. Authoritatively engage</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-auto  mb-30">
-                            <div class="d-xl-flex text-center text-xl-start skill-box">
-                                <span class="ripple-icon  hover-style2 align-self-start mb-20 mb-xl-0 mr-20"><i class="flaticon-medical-equipment"></i></span>
-                                <div class="media-body">
-                                    <h2 class="mt-n2 mb-0 text-theme">100+</h2>
-                                    <p class="text-title fs-md fw-medium mt-1 mt-xl-0 mb-2 mb-xl-2">Experienced Doctor's</p>
-                                    <p class="fs-xs mb-0">Incubate extensive scenarios without top-line quality vectors. Authoritatively engage</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-auto  mb-30">
-                            <div class="d-xl-flex text-center text-xl-start skill-box">
-                                <span class="ripple-icon  hover-style2 align-self-start mb-20 mb-xl-0 mr-20"><i class="flaticon-healthcare"></i></span>
-                                <div class="media-body">
-                                    <h2 class="mt-n2 mb-0 text-theme">200+</h2>
-                                    <p class="text-title fs-md fw-medium mt-1 mt-xl-0 mb-2 mb-xl-2">Happy Patients</p>
-                                    <p class="fs-xs mb-0">Incubate extensive scenarios without top-line quality vectors. Authoritatively engage</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section> -->
-        <!--==============================
-    Accordion Area
-    ==============================-->
-        <!-- <section class="vs-accordion-wrapper space-top space-md-bottom">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-6 mb-30 mb-xl-0">
-                        <div class="about-content">
-                            <span class="h3 text-theme sec-subtitle mb-2 mb-md-0">Discover Comprehensive Care for Your Well-being
-                            </span>
-                            <h2 class="h1">Why Choose Us?</h2>
-                            <p class="pe-xl-2 text-title">At Sri Hari Skin & Kidney Clinic, we are dedicated to providing holistic healthcare that prioritises your skin and kidney health. Our expert team of dermatologist and nephrologist brings a wealth of experience and a commitment to delivering personalised care.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-xl-6">
-                        <div class="vs-accordion accordion accordion-style2" id="vsaccordion">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-                                        Specialised Expertise.
-                                    </button>
-                                </h2>
-                                <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#vsaccordion">
-                                    <div class="accordion-body">
-                                        <p>Our clinic boasts a team of skilled dermatologist and nephrologist, ensuring you receive specialised care for both skin and kidney conditions.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                                        Integrated Approach
-                                    </button>
-                                </h2>
-                                <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#vsaccordion">
-                                    <div class="accordion-body">
-                                        <p> We understand the intricate connection between skin and kidney health. Our integrated approach allows us to address your concerns comprehensively.
-                                            .</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                                        State-of-the-Art Facilities
-                                    </button>
-                                </h2>
-                                <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#vsaccordion">
-                                    <div class="accordion-body">
-                                        <p> Equipped with cutting-edge technology, Sri Hari Clinic offers advanced diagnostic and treatment facilities to ensure the highest standard of care.
-                                            </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section> -->
-    <!--==============================
-    Testimonial Area
-    ==============================-->
+   
     <section class="testimonial-wrapper ">
             <div class="container">
                 <div class="row  text-center justify-content-center">
@@ -155,7 +14,7 @@
                                 <i class="flaticon-ecg"></i>
                             </div>
                             <h2 class="h1 ">Our Doctors</h2>
-                            <p>Our skilled team of professionals is dedicated to your well-being, offering personalised solutions for skin and kidney health. Experience advanced treatments, cutting-edge technology, and a commitment to your unique health journey. Your health, our priority.</p>
+                            <p>Our team of highly skilled and experienced doctors is dedicated to providing top-quality care with a patient-first approach. With expertise in advanced medical treatments and a compassionate approach, our doctors ensure personalized solutions tailored to your unique needs.</p>
                         </div>
                     </div>
                 </div>
@@ -497,10 +356,5 @@
     </footer> -->
 
 
-    <div class="container">
-        <div class="row">
-            <div class="col-6"></div>
-            <div class="col-6"></div>
-        </div>
-    </div>
+
 <?php include 'footer.php'; ?>

@@ -2,7 +2,7 @@
 
 
         <div class="breadcumb-wrapper  w-auto ">
-            <img class="mobileimg mobimg" src="./assets/img/Rashes  Itchy Hives.jpg" class="img-fluid" width="6000px" />
+            <img class="mobileimg mobimg" src="assets\img\services_images\10.png" class="img-fluid" width="6000px" />
         </div>
 
 
@@ -14,17 +14,22 @@
             <div class="row">
                 <div class="container">
                     <div class="row  text-center justify-content-center">
-                        <div class="col-md-10 col-lg-8 col-xl-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="col-12 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                             <div class="section-title">
                                 <span class="h3 text-theme sec-subtitle" style="font-size:45px">Rash Relief</span>
-                                <p>Say goodbye to the discomfort of rashes and itchy hives with our specialized treatment at Sri Hari Skin & Kidney Clinic. </p>
+                                <p>Soothe and heal irritated skin with Rash Relief at Renew Hair and Skin Clinic. Our expert treatments provide lasting comfort and restore skin health. Book your consultation today for a rash-free, refreshed complexion </p>
                             </div>
+                        </div>
+
+                        <div class="col-12 col-md-6">
+                        <img src="assets/img/rashes  middle image.jpg" alt="Service Image" class="w-100">
+
                         </div>
                     </div>
                 <div class="col-12">
                     <div class="service-content mb-30">
                         <!-- <div class="vs-surface wow" data-wow-delay="0.3s"> -->
-                            <img src="assets/img/rashes  middle image.jpg" alt="Service Image" class="w-100">
+                     
                         </div>
                         <!-- <div class="row justify-content-center">
                             <div class="col-xl-11 col-xxl-10 ">
@@ -90,7 +95,7 @@
                             </div>
                         </div>
                         <h3>Experience the Comfort of Healthy Skin:</h3>
-                        <p>Reclaim your comfort and confidence with our Rash Relief treatment at Sri Hari Clinic. Book your consultation now for a rash-free and soothing future.</p>
+                        <p>Regain your comfort and confidence with our Rash Relief treatment at Renew Hair and Skin Clinic. Schedule your consultation today for smooth, irritation-free skin.</p>
                     </div>
                 </div>
             </div>

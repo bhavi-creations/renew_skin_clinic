@@ -4,7 +4,7 @@
 ============================== -->
 
     <div class="breadcumb-wrapper  w-auto ">
-        <img class="mobileimg mobimg"  src="./assets/img/eczema.jpg" class="img-fluid"  width="6000px" />
+        <img class="mobileimg mobimg"  src="assets\img\services_images\13.png" class="img-fluid"  width="6000px" />
     </div>
 
  
@@ -16,17 +16,21 @@
             <div class="row">
                 <div class="container">
                     <div class="row  text-center justify-content-center">
-                        <div class="col-md-10 col-lg-8 col-xl-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="col-12 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                             <div class="section-title">
                                 <span class="h3 text-theme sec-subtitle" style="font-size:45px">Eczema</span>
-                                <p> Bid farewell to the challenges of managing eczema with Sri Hari Skin & Kidney Clinic's specialized Eczema Relief treatment. </p>
+                                <p> Soothe and protect your skin with expert Eczema treatment at Renew Hair and Skin Clinic. Book your consultation today for lasting relief and comfort </p>
                             </div>
+                        </div>
+                        <div class="col-12 col-md-6">
+                        <img src="assets/img/eczema middle image.jpg" alt="Service Image" class="w-100">
+
                         </div>
                     </div>
                 <div class="col-12">
                     <div class="service-content mb-30">
                         <!-- <div class="vs-surface wow" data-wow-delay="0.3s"> -->
-                            <img src="assets/img/eczema middle image.jpg" alt="Service Image" class="w-100">
+                         
                         </div>
                         <!-- <div class="row justify-content-center">
                             <div class="col-xl-11 col-xxl-10 ">
@@ -53,30 +57,32 @@
                         </div> -->
 
 
-                        <p class="fs-md text-title mb-4 pb-2" style="color:p">Eczema Relief at Sri Hari Clinic: Embrace Comfortable Skin</p>
-                        <p class="fs-md text-title mb-4 pb-2">Bid farewell to the challenges of managing eczema with Sri Hari Skin & Kidney Clinic's specialized Eczema Relief treatment. Our advanced approach provides a modern and effective solution for soothing and healthier skin.</p>
-                        <!-- <h1 style="font-size:20px"> Precision and Perfection</h1>
-                        <p>Our advanced laser technology precisely targets hair follicles, ensuring effective and long-lasting results.</p> -->
-                        <p> <span class="hello">Precision and Soothing :</span> Our tailored eczema relief treatment precisely targets affected areas, ensuring effective and lasting results for a calm and comfortable skin experience.
+                        <p class="fs-md text-title mb-4 pb-2" style="color:p">Eczema: Soothing Solutions for Healthy Skin</p>
+                        <p class="fs-md text-title mb-4 pb-2">Eczema is a common skin condition that causes dryness, itching, inflammation, and irritation. With the right treatment, symptoms can be managed effectively, providing relief and improving skin health.</p>
+                       
+                        <h1 style="font-size:20px">Why Treat Eczema?</h1>
+                        <!-- <p>Our advanced laser technology precisely targets hair follicles, ensuring effective and long-lasting results.</p> -->
+                        <p> <span class="hello">✅ Relieves Itching & Redness – </span> Reduces discomfort and soothes irritated skin
                         </p>
-                        <p> <span class="hello"> Gentle Sessions :</span>  Experience sessions designed for comfort, with our state-of-the-art technology that prioritizes the well-being of your sensitive skin.
+                        <p> <span class="hello"> ✅ Prevents Flare-Ups – </span>  Helps control symptoms for long-term relief.
                         </p>
-                        <p> <span class="hello">  Expert Guidance :</span> Under the care of our experienced dermatologist, each eczema relief treatment is customized to your unique skin condition for optimal results.
+                        <p> <span class="hello">   ✅ Restores Skin Barrier – </span>Keeps skin hydrated and protected.
                         </p>
 
 
-                        <p class="fs-md text-title mb-4 pb-2" style="color:p">Why Choose Eczema Relief at Sri Hari?</p>
-                        <p> <span class="hello"> Safe and Proven</span>  Our treatments are administered by skilled professionals in a controlled environment, ensuring safety and proven efficacy for eczema management.
+                        <p class="fs-md text-title mb-4 pb-2" style="color:p">Effective Treatment Options</p>
+                        <p> <span class="hello">🔹 Moisturizers & Emollients –</span>  Hydrates skin to prevent dryness and cracking.
                         </p>
-                        <p> <span class="hello">Comprehensive Care</span>  Benefit from the holistic approach of Sri Hari Clinic, where your overall skin health is considered in every eczema relief procedure.
+                        <p> <span class="hello">🔹 Topical Steroids & Medications – </span> Reduces inflammation and itching
+                        <p> <span class="hello">🔹 Lifestyle & Diet Modifications –  </span> Helps identify and avoid triggers for long-term control.
                         </p>
                        
-                        <p class="fs-md text-title mb-4 pb-2" style="color:p">The Process:</p>
-                        <p> <span class="hello" style="color: #27477d;"> Consultation :</span> A personalized consultation with our dermatologist to assess the extent of your eczema and determine the most suitable treatment plan.
+                        <p class="fs-md text-title mb-4 pb-2" style="color:p">The Treatment Process</p>
+                        <p> <span class="hello" style="color: #27477d;">  1️⃣ Skin Assessment – </span>A dermatologist examines the severity of eczema.
                         </p>
-                        <p> <span class="hello" style="color: #27477d;"> Treatment Follow-Ups :</span> A series of sessions spaced for optimal results, targeting eczema-affected areas to provide relief and promote healthier skin.
+                        <p> <span class="hello" style="color: #27477d;">  2️⃣ Personalized Treatment Plan – </span>Customized care based on skin condition and triggers.
                         </p>
-                        <p> <span class="hello" style="color: #27477d;"> Post-Treatment Care :</span> Our team provides guidance on post-treatment care to enhance and prolong the soothing effects of the eczema relief treatment.
+                        <p> <span class="hello" style="color: #27477d;">3️⃣ Ongoing Monitoring & Adjustments – </span> Treatment is modified as needed for best results
                         </p>
 
 
@@ -93,7 +99,7 @@
                             </div>
                         </div>
                         <h3>Experience the Comfort of Healthier Skin:</h3>
-                        <p>Reclaim your comfort and confidence with Eczema Relief at Sri Hari Clinic. Book your consultation now for a skin-friendly future.</p>
+                        <p>Restore your skin’s health and confidence with expert Eczema Relief at Renew Hair and Skin Clinic. Schedule your consultation today for a soothing and revitalized future</p>
                     </div>
                 </div>
             </div>

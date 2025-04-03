@@ -4,7 +4,7 @@
 ============================== -->
 
     <div class="breadcumb-wrapper  w-auto ">
-        <img class="mobileimg mobimg" src="./assets/img/Psoriasis.jpg" class="img-fluid"  width="6000px" />
+        <img class="mobileimg mobimg" src="assets\img\services_images\12.png" class="img-fluid"  width="6000px" />
     </div>
 
   
@@ -16,17 +16,21 @@
             <div class="row">
                 <div class="container">
                     <div class="row  text-center justify-content-center">
-                        <div class="col-md-10 col-lg-8 col-xl-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="col-12 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                             <div class="section-title">
                                 <span class="h3 text-theme sec-subtitle" style="font-size:45px">Psoriasis</span>
-                                <p> At Sri Hari Skin & Kidney Clinic, our Psoriasis Management treatment offers a modern and effective solution for soothing and healthy skin. </p>
+                                <p> Soothe and manage Psoriasis with expert care at Renew Hair and Skin Clinic. Book your consultation today for healthier, more comfortable skin </p>
                             </div>
+                        </div>
+                        <div class="col-12 col-md-6">
+                        <img src="assets/img/psoriasis  middle image.jpg" alt="Service Image" class="w-100">
+
                         </div>
                     </div>
                 <div class="col-12">
                     <div class="service-content mb-30">
                         <!-- <div class="vs-surface wow" data-wow-delay="0.3s"> -->
-                            <img src="assets/img/psoriasis  middle image.jpg" alt="Service Image" class="w-100">
+                      
                         </div>
                         <!-- <div class="row justify-content-center">
                             <div class="col-xl-11 col-xxl-10 ">
@@ -53,30 +57,34 @@
                         </div> -->
 
                         
-                        <p class="fs-md text-title mb-4 pb-2" style="color:p">Psoriasis Management at Sri Hari Clinic: Embrace Skin Comfort</p>
-                        <p class="fs-md text-title mb-4 pb-2">Say farewell to the challenges of managing psoriasis. At Sri Hari Skin & Kidney Clinic, our Psoriasis Management treatment offers a modern and effective solution for soothing and healthy skin.</p>
-                        <!-- <h1 style="font-size:20px"> Precision and Perfection</h1>
-                        <p>Our advanced laser technology precisely targets hair follicles, ensuring effective and long-lasting results.</p> -->
-                        <p> <span class="hello">Precision and Relief :</span> Our advanced treatments precisely target psoriatic lesions, ensuring effective and long-lasting relief.
+                        <p class="fs-md text-title mb-4 pb-2" style="color:p">Psoriasis: Advanced Treatment for Healthy Skin</p>
+                        <p class="fs-md text-title mb-4 pb-2">Psoriasis is a chronic skin condition that causes red, scaly patches, itching, and discomfort. With modern dermatological treatments, symptoms can be effectively managed, improving skin health and overall well-being..</p>
+                      
+                      
+                      
+                        <h1 style="font-size:20px">Why Treat Psoriasis?</h1>
+                        <!-- <p>Our advanced laser technology precisely targets hair follicles, ensuring effective and long-lasting results.</p> -->
+                        <p> <span class="hello"> ✅ Reduces Inflammation & Scaling –</span> Helps control flare-ups and smoothen skin.
                         </p>
-                        <p> <span class="hello"> Comfortable Sessions :</span> Experience sessions designed for your comfort, with state-of-the-art technology aimed at minimizing discomfort.
+                        <p> <span class="hello"> ✅ Minimizes Itching & Discomfort –</span> Soothes irritation for lasting relief.
                         </p>
-                        <p> <span class="hello">  Expert Guidance :</span> Under the care of our experienced dermatologist, each treatment is personalized to address your unique psoriasis condition.
+                        <p> <span class="hello"> ✅ Prevents Flare-Ups –</span>  Long-term management to keep symptoms under control
                         </p>
 
 
-                        <p class="fs-md text-title mb-4 pb-2" style="color:p">Why Choose Psoriasis Management at Sri Hari?</p>
-                        <p> <span class="hello"> Safe and Proven :</span>  Our treatments are administered by skilled professionals in a controlled environment, ensuring safety and proven efficacy.
+                        <p class="fs-md text-title mb-4 pb-2" style="color:p">Effective Treatment Options</p>
+                        <p> <span class="hello">🔹 Topical Medications – </span>Creams and ointments to reduce scaling and redness.
                         </p>
-                        <p> <span class="hello">Comprehensive Care :</span> Benefit from the holistic approach of Sri Hari Clinic, where your overall skin health is considered in every step of the psoriasis management process.
+                        <p> <span class="hello">🔹 Phototherapy – </span>Light-based therapy to slow excessive skin cell growth.
+                        <p> <span class="hello">🔹 Oral & Injectable Medications –</span> Advanced treatments for severe cases
                         </p>
                        
-                        <p class="fs-md text-title mb-4 pb-2" style="color:p">The Process:</p>
-                        <p> <span class="hello" style="color: #27477d;"> Consultation :</span> A personalized consultation with our dermatologist to understand the specifics of your psoriasis condition.
+                        <p class="fs-md text-title mb-4 pb-2" style="color:p">The Treatment Process :</p>
+                        <p> <span class="hello" style="color: #27477d;">  1️⃣ Consultation & Diagnosis –</span> A dermatologist assesses the severity of psoriasis.
                         </p>
-                        <p> <span class="hello" style="color: #27477d;"> Treatment Follow-Ups :</span> A series of sessions spaced for optimal results, targeting psoriatic lesions with our advanced treatments.
+                        <p> <span class="hello" style="color: #27477d;">  2️⃣ Customized Treatment Plan –</span> Tailored solutions based on skin condition and lifestyle.
                         </p>
-                        <p> <span class="hello" style="color: #27477d;"> Post-Treatment Care :</span> Our team provides guidance on post-treatment care to enhance and prolong the results, ensuring ongoing comfort.
+                        <p> <span class="hello" style="color: #27477d;">3️⃣ Regular Monitoring & Adjustments – </span>Treatment is modified as needed for optimal results.
                         </p>
 
 
@@ -93,7 +101,7 @@
                             </div>
                         </div>
                         <h3>Experience the Comfort of Healthy Skin:</h3>
-                        <p>Reclaim your confidence and comfort with Psoriasis Management at Sri Hari Clinic. Book your consultation now for a soothing skin future.</p>
+                        <p>Regain your comfort and confidence with expert Psoriasis Management at Renew Hair and Skin Clinic. Schedule your consultation today for healthier, calmer skin..</p>
                     </div>
                 </div>
             </div>

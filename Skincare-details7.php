@@ -4,7 +4,7 @@
 ============================== -->
 
     <div class="breadcumb-wrapper  w-auto ">
-        <img class="mobileimg mobimg" src="./assets/img/Medifacials.jpg" class="img-fluid"  width="6000px" />
+        <img class="mobileimg mobimg" src="assets\img\services_images\7.png" class="img-fluid"  width="6000px" />
     </div>
 
    
@@ -16,17 +16,20 @@
             <div class="row">
                 <div class="container">
                     <div class="row  text-center justify-content-center">
-                        <div class="col-md-10 col-lg-8 col-xl-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="col-12 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                             <div class="section-title">
                                 <span class="h3 text-theme sec-subtitle" style="font-size:45px"> Medifacials </span>
                                 <p>Say farewell to mundane skincare routines. At Sri Hari Skin & Kidney Clinic, our Medifacial treatments offer a contemporary and rejuvenating solution for radiant, healthy skin.</p>
                             </div>
                         </div>
+                        <div class="col-12 col-md-6">
+                        <img src="assets/img/medifacials  middle image.jpg" alt="Service Image" class="w-100">
+
+                        </div>
                     </div>
                 <div class="col-12">
                     <div class="service-content mb-30">
                         <!-- <div class="vs-surface wow" data-wow-delay="0.3s"> -->
-                            <img src="assets/img/medifacials  middle image.jpg" alt="Service Image" class="w-100">
                         </div>
                         <!-- <div class="row justify-content-center">
                             <div class="col-xl-11 col-xxl-10 ">
@@ -53,30 +56,47 @@
                         </div> -->
 
 
-                        <p class="fs-md text-title mb-4 pb-2" style="color:p">Medifacials at Sri Hari Clinic: Rediscover Radiant Skin</p>
-                        <p class="fs-md text-title mb-4 pb-2">Say farewell to mundane skincare routines. At Sri Hari Skin & Kidney Clinic, our Medifacial treatments offer a contemporary and rejuvenating solution for radiant, healthy skin.</p>
-                        <!-- <h1 style="font-size:20px"> Precision and Perfection</h1>
-                        <p>Our advanced laser technology precisely targets hair follicles, ensuring effective and long-lasting results.</p> -->
-                        <p> <span class="hello"> Customized Rejuvenation :</span> Our expert aestheticians tailor each Medifacial to address your unique skin concerns, providing personalized rejuvenation for a radiant glow.
+                        <p class="fs-md text-title mb-4 pb-2" style="color:p">Medifacials: Advanced Skin Rejuvenation for a Radiant Glow
                         </p>
-                        <p> <span class="hello"> Relaxing Sessions :</span> Indulge in the bliss of our Medifacial sessions designed to be not just effective but also relaxing, creating a tranquil experience for your skin and mind.
+                        <p class="fs-md text-title mb-4 pb-2">Revitalize your skin with our advanced Medifacials at Renew Hair and Skin Clinic. Designed to nourish, hydrate, and rejuvenate, our treatments leave your skin glowing and refreshed. Book your session today for a radiant, youthful complexion</p>
+                       
+                       
+                       
+                       
+                        <h1 style="font-size:20px">Why Choose Medifacials?</h1> 
+                        <!-- <p>Our advanced laser technology precisely targets hair follicles, ensuring effective and long-lasting results.</p> --> 
+                        <p> <span class="hello"> ✅ Deep Cleansing & Hydration –</span> Removes impurities and boosts skin moisture
                         </p>
-                        <p> <span class="hello">  Professional Guidance :</span>   Benefit from the expertise of our skilled dermatologist and skincare professionals, ensuring a comprehensive approach to your skin's well-being.
+                        <p> <span class="hello">  ✅ Custom-Tailored –</span> Treatments designed to address specific skin concerns
+                        </p>
+                        <p> <span class="hello">  ✅ Safe & Non-Invasive –</span>   Gentle yet effective for all skin types
+                        <p> <span class="hello">    ✅ Instant Glow –</span>               Immediate results with no downtime.
                         </p>
 
+          
 
-                        <p class="fs-md text-title mb-4 pb-2" style="color:p">Why Choose Medifacials at Sri Hari?</p>
-                        <p> <span class="hello"> Safe and Proven :</span>  Our Medifacial treatments are conducted in a controlled environment by skilled professionals, prioritizing safety and proven efficacy.
+
+                        <p class="fs-md text-title mb-4 pb-2" style="color:p">Types of Medifacials</p>
+                        <p> <span class="hello"> 🔹 Hydrating Facial –</span>   Replenishes moisture and restores skin softness.
                         </p>
-                        <p> <span class="hello">Holistic Approach :</span> Embrace the holistic approach of Sri Hari Clinic, where your overall skin health is considered in every Medifacial procedure.
+                        <p> <span class="hello">🔹 Brightening Facial –</span>  Reduces pigmentation and evens out skin tone.
+
+
+                        <p> <span class="hello">🔹 Anti-Aging Facial –</span>  Stimulates collagen to smooth fine lines and wrinkles
+                        <p> <span class="hello">🔹 Acne-Control Facial – </span> Deep cleansing to prevent breakouts and reduce oil.
+
                         </p>
                        
-                        <p class="fs-md text-title mb-4 pb-2" style="color:p">The Process:</p>
-                        <p> <span class="hello" style="color: #27477d;"> Consultation :</span> Begin with a personalized consultation with our skincare experts to assess your skin's unique needs and determine the most suitable Medifacial treatment.
+
+
+
+                        <p class="fs-md text-title mb-4 pb-2" style="color:p">The Medifacial Process</p>
+                        <p> <span class="hello" style="color: #27477d;"> 1️⃣ Skin Analysis –</span> Personalized consultation to determine your skin needs.
                         </p>
-                        <p> <span class="hello" style="color: #27477d;"> Treatment Sessions :</span> Enjoy a series of sessions, each strategically spaced for optimal results, delivering nourishing ingredients to your skin for a revitalized complexion.
+                        <p> <span class="hello" style="color: #27477d;"> 2️⃣ Customized Treatment – </span>Application of serums, peels, and advanced technology.
                         </p>
-                        <p> <span class="hello" style="color: #27477d;"> Post-Treatment Care :</span> Our team provides comprehensive guidance on post-treatment care to maximize and prolong the benefits of your Medifacial experience.
+                        <p> <span class="hello" style="color: #27477d;">3️⃣ Relax & Rejuvenate –</span>  A soothing, painless experience with visible results.
+                        <p> <span class="hello" style="color: #27477d;">4️⃣ Post-Treatment Care –</span>  Expert advice to maintain long-lasting skin health.
                         </p>
 
 
@@ -93,7 +113,7 @@
                             </div>
                         </div>
                         <h3>Experience the Bliss of Radiant Skin:</h3>
-                        <p>Reclaim your natural radiance and confidence with Medifacials at Sri Hari Clinic. Book your consultation now for a journey to glowing, healthy skin. </p>
+                        <p>Reveal your skin’s natural brilliance with HydraFacial Glow at Renew Hair and Skin Clinic. Book your consultation today for a revitalized and luminous complexion! </p>
                     </div>
                 </div>
             </div>

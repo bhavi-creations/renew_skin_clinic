@@ -11272,24 +11272,16 @@ blockquote cite:before {
 
 
 
-
-
-/* copy  */
-.marquee-section {
-  background: linear-gradient(to Left, #e446b4, #b92a7e, #d74097, #e446b4) !important;
-  color: white;
-  padding: 8px 0px 0px 6px;
-  /* display: flex;
-  flex-direction: column;
-  justify-content: center; */
+@media (min-width:992px) { 
+  .navbar-nav .dropdown:hover .dropdown-menu {
+      display: block;
+  }
 }
 
-/* .marquee_section{
-  background: linear-gradient(to Left, #e446b4, #b92a7e, #d74097, #e446b4) !important !important !important; 
-  color: white !important;
-  
-} */
 
-#marquee_section{
-  color: white !important;  
+
+.skin_care_section{
+  font-family:'poppins','Gill Sans', sans-serif ;
+text-align: center !important;
 }
+

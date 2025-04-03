@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Renew Skin &  Hair - Home</title>
+    <title>Renew Skin & Hair - Home</title>
     <meta name="author" content="Vecuro">
     <meta name="description" content="Sri Hari Skin Clinic">
     <meta name="keywords" content="Sri Hari Skin Clinic">
@@ -24,7 +24,7 @@
 
 
     <!-- Favicons - Place favicon.ico in the root directory -->
-    <link rel="shortcut icon" href="assets/img/logo." type="image/x-icon">
+    <link rel="shortcut icon" href="assets/img/logo.png" type="image/x-icon">
     <!-- <link rel="icon" href="assets/img/srifavicon.jpg" type="image/x-icon"> -->
 
     <script src="https://kit.fontawesome.com/742df65007.js" crossorigin="anonymous"></script>
@@ -52,6 +52,7 @@
 
     <style>
         /* WhatsApp Logo */
+    
 
 
         #scrollBtn {
@@ -72,6 +73,7 @@
             border-radius: 50%;
             cursor: pointer;
         }
+
         .nav-link {
             font-weight: bold;
         }
@@ -107,15 +109,135 @@
             color: white;
             transition: right 0.3s ease;
             padding: 20px;
+            z-index: 9999;
         }
+
         .sidebar.active {
             right: 0;
         }
 
-        #togglebar{
+        #togglebar {
             color: black !important;
         }
+
+        .navbar {
+            z-index: 999;
+            background-color: #ded9e3 !important;
+        }
+
+
+    .sidebar {
+        position: fixed;
+        right: -300px;
+        top: 0;
+        width: 300px;
+        height: 100vh;
+        background: #fff;
+        box-shadow: -2px 0 5px rgba(0, 0, 0, 0.2);
+        padding: 15px;
+        overflow-y: auto;
+        transition: 0.3s ease-in-out;
+        z-index: 9999;
+    }
+    .sidebar.active {
+        right: 0;
+    }
+    .sidebar-header h5 {
+        margin-bottom: 10px;
+        font-weight: bold;
+    }
+    .sidebar-content p {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+
+    /* Image Section */
+    .image-container {
+        overflow: hidden;
+        height: 120px;
+        margin-top: 10px;
+    }
+    .image-wrapper {
+        display: flex;
+        flex-direction: column;
+        transition: transform 0.5s ease-in-out;
+    }
+    .image-wrapper img {
+        width: 100%;
+        height: 100px;
+        object-fit: cover;
+        margin-bottom: 5px;
+    }
+    .image-wrapper:hover {
+        transform: translateY(-20px);
+    }
+
+    /* Navbar Dropdown Hover */
+    .navbar-nav .dropdown:hover .dropdown-menu {
+        display: block;
+    }
+
+    /* Change Toggle Button Color */
+    .navbar-toggler {
+        border-color: black;
+    }
+
+    .navbar-toggler-icon {
+        filter: invert(1); /* Makes the icon black */
+    }
+
+
+
+
+ 
+
+
+
+    /* Change Toggle Button Color */
+    .navbar-toggler {
+        border-color: black;
+    }
+
+    .navbar-toggler-icon {
+        filter: invert(1); /* Makes the icon black */
+    }
+
+    .breadcumb-wrapper,
+.testimonial-wrapper {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+.container {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.vs-hero-wrapper {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+.navbar {
+    margin-bottom: 0 !important;
+}
+
+.vs-hero-carousel {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+
+
+
+
     </style>
+
 
 </head>
 
@@ -145,71 +267,176 @@
                 <defs></defs>
                 <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
                     <img src="assets/img/logo.png" alt="" style="width:200px; height:200px;">
-                    <!-- <path class="beat-loader" d="M0.5,38.5 L16,38.5 L19,25.5 L24.5,57.5 L31.5,7.5 L37.5,46.5 L43,38.5 L53.5,38.5" id="Path-2" stroke-width="2"></path> -->
                 </g>
             </svg>
         </div>
     </div>
 
-   
- <marquee behavior="" direction=""></marquee>
 
+    <!-- Marquee Section -->
+    <marquee behavior="" direction="" class="" style="background-color: #e9ccd1; color: black; padding: 10px; margin: 0; display: block;">
+        Transforming Skin & Hair Health with Advanced Care &nbsp; &nbsp; // &nbsp; &nbsp; Your Trusted Partner for Radiant Skin & Healthy Hair &nbsp; &nbsp;// &nbsp; &nbsp; Expert Dermatology & Aesthetic Solutions &nbsp; &nbsp;// &nbsp; &nbsp;Innovative Treatments for Skin & Hair Rejuvenation
+    </marquee>
 
-    <nav class="navbar navbar-expand-lg bg-light p-3">
-    <div class="container-fluid">
-        <div class="header2-logo">
-            <a href="index.php"><img src="assets/img/logo.png" alt="Logo" height="80" width="100"></a>
+ 
+
+    <!-- Navbar Section -->
+    <nav class="navbar navbar-expand-lg bg-light p-3" style="margin-top: 0;">
+        <div class="container-fluid">
+            <div class="header2-logo">
+                <a href="index.php"><img src="assets/img/logo.png" alt="Logo" height="80" width="100"></a>
+            </div>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="Skincare-titlepage.php" id="servicesDropdown" role="button">Services</a>
+                        <ul class="dropdown-menu" aria-labelledby="servicesDropdown">
+                            <div class="row" style="z-index: 99 !important;">
+                                <div class="col navebar_menu">
+                                    <li><a class="dropdown-item" href="Skincare-details1.php">Laser Hair Reduction</a></li>
+                                    <li><a class="dropdown-item" href="Skincare-details2.php">Hyperpigmentation Treatment</a></li>
+                                    <li><a class="dropdown-item" href="Skincare-details3.php">Removal of Warts, Mole, Skintags</a></li>
+                                    <li><a class="dropdown-item" href="Skincare-details4.php">Hairfall Treatments(PRP & GFC)</a></li>
+                                    <li><a class="dropdown-item" href="Skincare-details5.php">Antiaging treatments like Botox</a></li>
+                                    <li><a class="dropdown-item" href="Skincare-details6.php">Acne & Acne scar treatment</a></li>
+                                </div>
+                                <div class="col-6">
+                                    <li><a class="dropdown-item" href="Skincare-details7.php">Medifacials</a></li>
+                                    <li><a class="dropdown-item" href="Skincare-details8.php">Hydrafacial</a></li>
+                                    <li><a class="dropdown-item" href="Skincare-details9.php">Phototherapy</a></li>
+                                    <!-- <li><a class="dropdown-item" href="Skincare-details10.php">Rashes / Itchy Hives</a></li> -->
+                                    <li><a class="dropdown-item" href="Skincare-details11.php">Vitiligo</a></li>
+                                    <li><a class="dropdown-item" href="Skincare-details12.php">Psoriasis</a></li>
+                                    <li><a class="dropdown-item" href="Skincare-details13.php">Eczema</a></li>
+                                </div>
+                            </div>
+                        </ul>
+                    </li>
+                    <li class="nav-item"><a class="nav-link" href="gallery.php">Gallery</a></li>
+                    <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
+                </ul>
+            </div>
+            <button class="d-none d-lg-block btn btn-primary me-2" id="togglebar" onclick="toggleSidebar()">☰</button> &nbsp;&nbsp;&nbsp;
+            <a href="appointment.php" class="vs-btn style2">Appointment<i class="fal fa-calendar-alt"></i></a>
         </div>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
-            <ul class="navbar-nav">
-                <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
-                <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="servicesDropdown" role="button">Services</a>
-                    <ul class="dropdown-menu" aria-labelledby="servicesDropdown">
-                        <div class="row" style="z-index: 99 !important;">
-                            <div class="col navebar_menu">
-                                <li><a class="dropdown-item" href="Skincare-details1.php">Laser Hair Reduction</a></li>
-                                <li><a class="dropdown-item" href="Skincare-details2.php">Hyperpigmentation Treatment</a></li>
-                                <li><a class="dropdown-item" href="Skincare-details3.php">Removal of Warts, Mole, Skintags</a></li>
-                                <li><a class="dropdown-item" href="Skincare-details4.php">Hairfall Treatments(PRP & GFC)</a></li>
-                                <li><a class="dropdown-item" href="Skincare-details5.php">Antiaging treatments like Botox</a></li>
-                                <li><a class="dropdown-item" href="Skincare-details6.php">Acne & Acne scar treatment</a></li>
-                            </div>
-                            <div class="col-6">
-                                <li><a class="dropdown-item" href="Skincare-details7.php">Medifacials</a></li>
-                                <li><a class="dropdown-item" href="Skincare-details8.php">Hydrafacial</a></li>
-                                <li><a class="dropdown-item" href="Skincare-details9.php">Phototherapy</a></li>
-                                <li><a class="dropdown-item" href="Skincare-details10.php">Rashes / Itchy Hives</a></li>
-                                <li><a class="dropdown-item" href="Skincare-details11.php">Vitiligo</a></li>
-                                <li><a class="dropdown-item" href="Skincare-details12.php">Psoriasis</a></li>
-                                <li><a class="dropdown-item" href="Skincare-details13.php">Eczema</a></li>
-                            </div>
-                        </div>
+    </nav>
+
+
+       <!-- Header Top Section -->
+       <!-- <section class="header-top bg-title py-2 d-none d-lg-block" style="background-color: #f8f9fa;">
+        <div class="container py-1">
+            <div class="row justify-content-between align-items-center">
+                <div class="col-auto">
+                    <ul class="header-top-info list-unstyled m-0 d-flex gap-3">
+                        <li><i class="far fa-envelope"></i> <a href="mailto:srihariskinclinic@gmail.com" class="text-reset">srihariskinclinic@gmail.com</a></li>
+                        <li><i class="far fa-map-marker-alt"></i> 22-2-7 Mathrusri Complex, Raja Rammohan Roy Street, Kakinada</li>
+                        <li><i class="far fa-clock"></i> Mon - Fri: 8:00 am - 7:00 pm</li>
                     </ul>
-                </li>
-                <li class="nav-item"><a class="nav-link" href="gallery.php">Gallery</a></li>
-                <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
-            </ul>
+                </div>
+                <div class="col-auto">
+                    <ul class="header-social d-flex gap-2">
+                        <li><a href="https://www.facebook.com/renewneurostar" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a href="https://www.instagram.com/renew_neurostar/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                       
+                    </ul>
+                </div>
+            </div>
         </div>
-        <button class=" d-none d-lg-block btn btn-primary  me-2" id="togglebar" onclick="toggleSidebar() ">☰</button>
-        <a href="appointment.php" class="btn btn-success d-none d-lg-block">Appointment</a>
-    </div>
-</nav>
+    </section> -->
 
+    <!-- Header large device Section -->
+    <section class="header-top bg-title py-2 d-none d-lg-block slider_space_content" style="background-color: #f8f9fa;">
+        <div class="container py-1">
+            <div class="row justify-content-between align-items-center">
+                <div class="col-auto">
+                    <ul class="header-top-info list-unstyled m-0 d-flex gap-3">
+                        <li><i class="far fa-envelope"></i> <a href="mailto:srihariskinclinic@gmail.com" class="text-reset">srihariskinclinic@gmail.com</a></li>
+                        <li><i class="far fa-map-marker-alt"></i>  Neurostar Hospital, B Block, Kakinada</li>
+                        <li><i class="far fa-clock"></i> Mon - sat: 8:00 am - 7:00 pm   </li>
+                    </ul>
+                    <!-- /sunday holiday -->
+                </div>
+                <div class="col-auto">
+                    <ul class="header-social d-flex gap-2">
+
+                    
+                        <li><a href="https://www.facebook.com/renewneurostar" target="_blank" style="color:white"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a href="https://www.instagram.com/renew_neurostar/" target="_blank" style="color:white"><i class="fab fa-instagram"></i></a></li>
+                       
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const dropdown = document.querySelector(".nav-item.dropdown");
+        const dropdownToggle = document.querySelector("#servicesDropdown");
+        const dropdownMenu = document.querySelector(".dropdown-menu");
+
+        // Function to toggle dropdown on click for mobile/tablet
+        function toggleDropdown(event) {
+            if (window.innerWidth < 992) { // Only for screens smaller than lg
+                event.preventDefault(); // Prevent default link action
+                dropdownMenu.classList.toggle("show");
+            }
+        }
+
+        // Event listener for click (Mobile & Tablet)
+        dropdownToggle.addEventListener("click", toggleDropdown);
+
+        // Hide dropdown when clicking outside (Mobile & Tablet)
+        document.addEventListener("click", function(event) {
+            if (!dropdown.contains(event.target)) {
+                dropdownMenu.classList.remove("show");
+            }
+        });
+    });
+</script>
+
+
+
+
+
+  <!-- Sidebar -->
 <div id="sidebar" class="sidebar">
+    <div class="sidebar-header text-center">
+        <img src="assets/img/logo.png" alt="Logo" class="img-fluid my-3" style="max-width: 120px;">
+        <h5>Welcome to Renew Skin & Hair hospital </h5>
+        <p class="text-muted px-3">Providing expert skin & Hair care solutions with advanced technology and personalized care.</p>
+    </div>
+
+    <div class="sidebar-content text-center">
+        <p><i class="fas fa-map-marker-alt"></i> Neurostar Hospital, B Block, Kakinada
+        -533003</p>
+        <p><i class="fas fa-phone-alt"></i> <a href="tel:+919876543210">+91 9032591108</a></p>
+    </div>
+
+
+   
+    <!-- Close Button -->
     <button class="btn btn-danger mt-3" onclick="toggleSidebar()">Close</button>
 </div>
 
+<!-- JavaScript -->
 <script>
     function toggleSidebar() {
         document.getElementById("sidebar").classList.toggle("active");
     }
+
     document.getElementById("servicesDropdown").addEventListener("click", function(event) {
         event.preventDefault();
         this.parentElement.classList.toggle("show");
     });
 </script>
+
+<!-- CSS -->
+

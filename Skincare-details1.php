@@ -5,7 +5,7 @@
 ============================== -->
 
 <div class="breadcumb-wrapper  w-auto ">
-  <img class="mobileimg mobimg" src="./assets/img/LaserHairReduction(1).jpg" class="img-fluid" width="6000px" />
+  <img class="mobileimg mobimg" src="assets\img\services_images\1.png" class="img-fluid" width="6000px" />
 </div>
 
 
@@ -16,19 +16,22 @@
   <div class="container">
     <div class="row">
       <div class="container">
-        <div class="row  text-center justify-content-center">
-          <div class="col-md-10 col-lg-8 col-xl-6 wow fadeInUp" data-wow-delay="0.3s">
+        <div class="row  text-center  my-5  ">
+          <div class="col-12 col-md-6 d-flex flex-direction-row align-items-center wow fadeInUp" data-wow-delay="0.3s">
             <div class="section-title">
               <span class="h3 text-theme sec-subtitle" style="font-size:45px">Laser Hair Reduction</span>
-              <p>Say goodbye to the constant struggle of shaving, waxing, and threading. Laser Hair Reduction offers a modern, long-lasting solution for achieving silky, hair-free skin with minimal effort.</p>
+              <p>Experience long-lasting smoothness with Laser Hair Reduction at Renew Hair and Skin Clinic. Our advanced technology ensures effective and gentle hair removal. Book your consultation today for a hassle-free, hair-free future</p>
             </div>
+          </div>
+          <div class="col-12 col-md-6">
+          <img src="assets\img\services_images\laserhairtreatment.png" alt="Service Image" class="w-100">
+
           </div>
         </div>
         <div class="col-12">
-          <div class="service-content mb-30">
-            <!-- <div class="vs-surface wow" data-wow-delay="0.3s"> -->
-            <img src="assets/img/laser hair reduction middle image.jpg" alt="Service Image" class="w-100">
-          </div>
+          <!-- <div class="service-content mb-30">
+
+          </div> -->
           <!-- <div class="row justify-content-center">
                             <div class="col-xl-11 col-xxl-10 ">
                                 <div class="service-bar">
@@ -84,11 +87,13 @@
           </p>
 
           <h5 class="my-2">Benefits of Laser Hair Reduction</h5>
-          <p> <span class="hello"> 🔹 Long-Lasting Results –</span>  Unlike temporary methods, laser treatment reduces hair growth significantly over time
+          <p> <span class="hello"> 🔹 Long-Lasting Results –</span> Unlike temporary methods, laser treatment reduces hair growth significantly over time
           </p>
           <p> <span class="hello"> 🔹 Smooth & Even Skin – </span> Say goodbye to razor burns, bumps, and ingrown hairs.
-          </p> <p> <span class="hello"> 🔹 Precision Targeting – </span>The laser focuses on hair follicles without damaging surrounding skin.
-          </p> <p> <span class="hello"> 🔹 Quick & Painless – </span>  Modern technology makes the treatment fast and comfortable with minimal discomfort
+          </p>
+          <p> <span class="hello"> 🔹 Precision Targeting – </span>The laser focuses on hair follicles without damaging surrounding skin.
+          </p>
+          <p> <span class="hello"> 🔹 Quick & Painless – </span> Modern technology makes the treatment fast and comfortable with minimal discomfort
           </p>
 
 
@@ -99,24 +104,24 @@
 
           <h5 class="my-2">The Treatment Journey</h5>
           <p> <span class="hello">1️⃣ Personalized Consultation –</span> A skin and hair analysis to determine the best approach.</p>
-          <p> <span class="hello">  2️⃣ Treatment Sessions –</span> A series of laser sessions, spaced a few weeks apart, to effectively target hair in its active growth phase.</p>
+          <p> <span class="hello"> 2️⃣ Treatment Sessions –</span> A series of laser sessions, spaced a few weeks apart, to effectively target hair in its active growth phase.</p>
           <p> <span class="hello"> 3️⃣ Minimal Downtime – </span> Resume daily activities immediately after each session with little to no irritation.</p>
-          <p> <span class="hello"> 4️⃣ Post-Treatment Care –  </span> Use sunscreen and gentle skincare to protect treated areas and maintain results.</p>
+          <p> <span class="hello"> 4️⃣ Post-Treatment Care – </span> Use sunscreen and gentle skincare to protect treated areas and maintain results.</p>
 
 
           <div class="row mt-40 mb-20">
             <div class="col-lg-4 mb-30">
-              <img src="assets/img/laser hair footer image 1.jpg" alt="Service Image" class="w-100">
+              <img src="assets\img\services_images\laser1.png" alt="Service Image" class="w-100">
             </div>
             <div class="col-lg-4 mb-30">
-              <img src="assets/img/laser hair footer image 2.jpg" alt="Service Image" class="w-100">
+              <img src="assets\img\services_images\laser2.png" alt="Service Image" class="w-100">
             </div>
             <div class="col-lg-4 mb-30">
-              <img src="assets/img/laser hair footer image 3.jpg" alt="Service Image" class="w-100">
+              <img src="assets\img\services_images\laser3.png" alt="Service Image" class="w-100">
             </div>
           </div>
           <h3>Experience the Freedom of Smooth Skin</h3>
-          <p>Reclaim your time and confidence with Laser Hair Reduction at Sri Hari Clinic. Book your consultation now for a hair-free future.
+          <p>Enjoy long-lasting smoothness and renewed confidence with Laser Hair Reduction at Renew Hair and Skin Clinic. Book your consultation today for a hassle-free, hair-free future!
           </p>
         </div>
       </div>

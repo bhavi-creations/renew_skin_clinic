@@ -76,8 +76,8 @@
                 frameborder="0" style="border:0"
                 src="https://maps.app.goo.gl/ZBwkkyYBGb6Q3sar7" allowfullscreen>
             </iframe> -->
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3816.4228878816407!2d82.22867417428246!3d16.953736615154646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a38295c1ac74c55%3A0xb1fb05bbec301801!2ssri%20hari%20skin%2Fhair%2Flaser%20clinic!5e0!3m2!1sen!2sin!4v1700200968918!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-            </div>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3815.756788432908!2d82.239668!3d16.9865095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTbCsDU5JzExLjQiTiA4MsKwMTQnMjIuOCJF!5e0!3m2!1sen!2sin!4v1727955954785!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
         </div>
     </section>
 

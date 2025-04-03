@@ -4,7 +4,7 @@
 ============================== -->
 
     <div class="breadcumb-wrapper  w-auto ">
-        <img class="mobileimg mobimg" src="./assets/img/Hydrafacial.jpg" class="img-fluid"  width="6000px"/>
+        <img class="mobileimg mobimg" src="assets\img\services_images\8.png" class="img-fluid"  width="6000px"/>
     </div>
 
   
@@ -16,17 +16,20 @@
             <div class="row">
                 <div class="container">
                     <div class="row  text-center justify-content-center">
-                        <div class="col-md-10 col-lg-8 col-xl-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="col-12 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                             <div class="section-title">
                                 <span class="h3 text-theme sec-subtitle" style="font-size:45px"> HydraFacial  </span>
-                                <p>Tired of traditional skincare routines? Experience the next level of skincare with HydraFacial Glow at Sri Hari Skin & Kidney Clinic.</p>
+                                <p>Experience deep hydration and rejuvenation with HydraFacial at Renew Hair and Skin Clinic. This advanced treatment cleanses, exfoliates, and nourishes your skin for a radiant, refreshed glow. Book your session today for instantly luminous skin.</p>
                             </div>
+                        </div>
+                        <div class="col-12 col-md-6">
+                        <img src="assets/img/hydrafacial   middle image.jpg" alt="Service Image" class="w-100">
+
                         </div>
                     </div>
                 <div class="col-12">
                     <div class="service-content mb-30">
                         <!-- <div class="vs-surface wow" data-wow-delay="0.3s"> -->
-                            <img src="assets/img/hydrafacial   middle image.jpg" alt="Service Image" class="w-100">
                         </div>
                         <!-- <div class="row justify-content-center">
                             <div class="col-xl-11 col-xxl-10 ">
@@ -53,31 +56,40 @@
                         </div>
 
                          -->
-                        <p class="fs-md text-title mb-4 pb-2" style="color:p">HydraFacial Glow at Sri Hari Clinic: Illuminate Your Skin's Radiance</p>
-                        <p class="fs-md text-title mb-4 pb-2">Tired of traditional skincare routines? Experience the next level of skincare with HydraFacial Glow at Sri Hari Skin & Kidney Clinic. Our advanced HydraFacial treatment offers a revolutionary solution for achieving a radiant and rejuvenated complexion effortlessly.</p>
-                        <!-- <h1 style="font-size:20px"> Precision and Perfection</h1>
-                        <p>Our advanced laser technology precisely targets hair follicles, ensuring effective and long-lasting results.</p> -->
-                        <p> <span class="hello">  Revitalize and Replenish :</span> HydraFacial's cutting-edge technology gently exfoliates, extracts impurities, and hydrates your skin, leaving it refreshed and glowing.
+                        <p class="fs-md text-title mb-4 pb-2" style="color:p">HydraFacial: The Ultimate Skin Rejuvenation Treatment</p>
+                        <p class="fs-md text-title mb-4 pb-2">HydraFacial is a revolutionary skin treatment that deeply cleanses, exfoliates, and hydrates the skin, leaving it refreshed and glowing. This non-invasive facial is suitable for all skin types and delivers instant, long-lasting results with no downtime.
+
+    </p>
+                        <h1 style="font-size:20px"> Why Choose HydraFacial?</h1>
+                        <!-- <p>Our advanced laser technology precisely targets hair follicles, ensuring effective and long-lasting results.</p> -->
+                        <p> <span class="hello"> ✅ Deep Cleansing & Exfoliation –</span>  Removes dirt, oil, and dead skin cells for a fresh look.
                         </p>
-                        <p> <span class="hello">Soothing and Relaxing :</span> Indulge in a relaxing and soothing skincare experience with HydraFacial's non-invasive and comfortable sessions.
-                        </p>
-                        <p> <span class="hello">  Personalized Expert Care :</span>Our skilled dermatologist customize each HydraFacial session to address your specific skin concerns, ensuring a tailored approach for optimal results.
+                        <p> <span class="hello">✅ Intense Hydration –</span>  Infuses skin with nourishing serums for a radiant glow.
+                        <p> <span class="hello"> ✅ Gentle & Non-Irritating –</span> Safe for even the most sensitive skin types.
                         </p>
 
 
-                        <p class="fs-md text-title mb-4 pb-2" style="color:p">Why Choose HydraFacial Glow at Sri Hari?</p>
-                        <p> <span class="hello"> Safe and Proven :</span> Conducted by experienced skincare professionals in a controlled environment, our HydraFacial treatments prioritize safety and proven efficacy.
-                        </p>
-                        <p> <span class="hello">Holistic Approach :</span> Experience comprehensive skincare at Sri Hari Clinic, where we consider your overall skin health in every step of the HydraFacial procedure.
-                        </p>
                        
-                        <p class="fs-md text-title mb-4 pb-2" style="color:p">The Process:</p>
-                        <p> <span class="hello" style="color: #27477d;"> Consultation :</span> A personalized consultation with our dermatologist to understand your skin's unique needs and determine the most suitable HydraFacial treatment plan for you.
+                       
+                        <p class="fs-md text-title mb-4 pb-2" style="color:p">Key Benefits of HydraFacial</p>
+                        <p> <span class="hello" style="color: #27477d;">🔹 Clears Clogged Pores –</span>  Reduces blackheads and whiteheads for a refined complexion.
                         </p>
-                        <p> <span class="hello" style="color: #27477d;"> HydraFacial Sessions :</span> A series of sessions designed to cleanse, extract, and hydrate your skin, promoting a radiant and youthful appearance.
+                        <p> <span class="hello" style="color: #27477d;">🔹 Evens Skin Tone – </span> Brightens dull skin and reduces pigmentation.
                         </p>
-                        <p> <span class="hello" style="color: #27477d;"> Post-Treatment Care :</span> Our team provides guidance on post-HydraFacial care to help you maintain and enhance the glowing results.
+                        <p> <span class="hello" style="color: #27477d;"> 🔹 Boosts Collagen Production – </span> Helps minimize fine lines and wrinkles.
                         </p>
+
+
+
+
+                        <p class="fs-md text-title mb-4 pb-2" style="color:p">The HydraFacial Process</p>
+                        <p> <span class="hello" style="color: #27477d;"> 1️⃣ Cleansing & Exfoliation – </span> Removes dead skin cells and preps the skin.
+                        </p>
+                        <p> <span class="hello" style="color: #27477d;"> 2️⃣ Gentle Extraction – </span>Uses a vacuum-like suction to clear out pores.
+                        </p>
+                        <p> <span class="hello" style="color: #27477d;"> 3️⃣ Hydration & Nourishment –</span> Infuses skin with customized serums for deep hydration.
+                        </p>
+
 
 
                         <div class="row mt-40 mb-20">
@@ -92,7 +104,7 @@
                             </div>
                         </div>
                         <h3>Experience the Glow:</h3>
-                        <p>Reveal your skin's natural radiance with HydraFacial Glow at Sri Hari Clinic. Book your consultation now for a revitalized and luminous future.
+                        <p>Unveil your skin's natural glow with HydraFacial Glow at Renew Hair and Skin Clinic. Schedule your consultation today for a refreshed and radiant complexion.
 
                         </p>
                     </div>

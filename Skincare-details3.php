@@ -4,7 +4,7 @@
 ============================== -->
 
     <div class="breadcumb-wrapper  w-auto ">
-        <img class="mobileimg mobimg" src="./assets/img/Removalofwarts (2).jpg" class="img-fluid"  width="6000px" />
+        <img class="mobileimg mobimg" src="assets\img\services_images\3.png" class="img-fluid"  width="6000px" />
     </div>
 
  
@@ -16,17 +16,21 @@
             <div class="row">
                 <div class="container">
                     <div class="row  text-center justify-content-center">
-                        <div class="col-md-10 col-lg-8 col-xl-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="col-12 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                             <div class="section-title">
                                 <span class="h3 text-theme sec-subtitle" style="font-size:45px">Removal of Warts, Mole and Skintags</span>
-                                <p>Bid farewell to the inconvenience of traditional methods for wart, mole, and skin tag removal</p>
+                                <p>Say goodbye to unwanted warts, moles, and skin tags with our safe and effective removal treatments at Renew Hair and Skin Clinic. Achieve smooth, blemish-free skin with expert care. Book your consultation today for a flawless look</p>
                             </div>
+                           
                         </div>
+                        <div class="col-12 col-md-6">
+                            <img src="assets/img/Wart, Mole, and Skin Tag Removal  middle image.jpg" alt="Service Image" class="w-100">
+
+                            </div>
                     </div>
                 <div class="col-12">
                     <div class="service-content mb-30">
                         <!-- <div class="vs-surface wow" data-wow-delay="0.3s"> -->
-                            <img src="assets/img/Wart, Mole, and Skin Tag Removal  middle image.jpg" alt="Service Image" class="w-100">
                         </div>
                         <!-- <div class="row justify-content-center">
                             <div class="col-xl-11 col-xxl-10 ">
@@ -93,7 +97,7 @@
                             </div>
                         </div>
                         <h3>Experience the Confidence of Blemish-Free Skin:</h3>
-                        <p>Reclaim your confidence with the removal of warts, moles, and skin tags at Sri Hari Clinic. Book your consultation now for flawless, blemish-free skin.
+                        <p>Regain your confidence with safe and effective removal of warts, moles, and skin tags at Renew Hair and Skin Clinic. Schedule your consultation today for smooth, blemish-free skin!.
                              </p>
                     </div>
                 </div>
