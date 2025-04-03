@@ -1471,7 +1471,7 @@ textarea.form-control.is-invalid {
   color: var(--white-color);
 }
 .icon-btn.style4 i {
-  background-color: var(--theme-color);
+  background-color: #343a8c  ;
   color: var(--white-color);
   box-shadow: none;
   width: 50px;
@@ -6828,7 +6828,7 @@ blockquote cite:before {
   width: var(--shape-size);
   height: var(--shape-size);
   line-height: var(--shape-size);
-  background-color: var(--theme-color);
+  background-color: #f0abcd  ;
   color: var(--white-color);
   font-size: 3em;
   display: inline-block;
@@ -11217,18 +11217,18 @@ blockquote cite:before {
   width: 100% !important;
 }
 
-@media(max-width:776px) {
+/* @media(max-width:776px) {
   .mobileimg {
     margin-top:40px
   }
-}
+} */
 
-@media (min-width: 772px) and (max-width: 991px) {
-  /* Your styles go here */
+/* @media (min-width: 772px) and (max-width: 991px) {
+  
   .mobimg {
     margin-top:40px;
   }
-}
+} */
 
 @media (min-width: 992px) and (max-width: 1199px) {
   /* Your styles go here */

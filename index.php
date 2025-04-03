@@ -137,7 +137,8 @@
 
     <section class="my-5 py-5">
         <div class="section-title">
-            <span class="skin_care_section  " style="font-size:45px ; font-weight: 700;">Skin Care</span>
+        <span class="skin_care_section" style="font-size: 45px; font-weight: 700; color: #d23694; display: block; text-align: center;">Skin Care</span>
+
             <!-- <p> From medical dermatology to cosmetic treatments, we have your skin health
             covered.</p> -->
         </div>

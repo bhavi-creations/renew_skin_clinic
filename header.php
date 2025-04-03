@@ -322,7 +322,7 @@ body {
                 </ul>
             </div>
             <button class="d-none d-lg-block btn btn-primary me-2" id="togglebar" onclick="toggleSidebar()">☰</button> &nbsp;&nbsp;&nbsp;
-            <a href="appointment.php" class="vs-btn style2">Appointment<i class="fal fa-calendar-alt"></i></a>
+            <a href="appointment.php" class="vs-btn style2 d-none d-lg-block">Appointment<i class="fal fa-calendar-alt"></i></a>
         </div>
     </nav>
 
