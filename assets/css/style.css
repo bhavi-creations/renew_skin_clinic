@@ -2276,9 +2276,7 @@ textarea.form-control.is-invalid {
 }
 
 .bg-title {
-  background-color: #9488b7
-
-  !important;
+  background-color:#2d3994 !important;
 }
 
 .bg-light2 {
@@ -11316,3 +11314,105 @@ text-align: center !important;
 .hover-move-up:hover {
   transform: translateY(-10px);
 }
+
+
+/* Desktop Hover Dropdown */
+@media (min-width: 992px) {
+  .navbar-nav .dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0.5rem;
+  }
+}
+
+/* Smooth transition from "Services" to sub-services */
+.dropdown-menu {
+  pointer-events: auto;
+}
+
+/* Desktop Hover Dropdown */
+@media (min-width: 992px) {
+  .navbar-nav .dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0.5rem;
+  }
+}
+
+/* Force dropdown to appear below service on all screens */
+.dropdown-menu {
+  pointer-events: auto;
+  left: auto;
+  right: auto;
+}
+
+/* On mobile/tablet: stack sub-services vertically */
+
+/* Show dropdown on hover for desktop */
+@media (min-width: 992px) {
+  .navbar-nav .dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0.5rem;
+  }
+}
+
+/* Ensure dropdown stays within the viewport */
+.dropdown-menu {
+  left: 0 !important;
+  right: auto !important;
+  width: auto;
+  max-width: 100vw;
+  overflow-x: auto;
+  white-space: normal;
+}
+
+/* On small screens: Stack items and expand dropdown width */
+/* @media (max-width: 991.98px) {
+  .dropdown-menu {
+    min-width: 100% !important;
+  }
+
+  .dropdown-menu .subservice_section {
+    flex-direction: column;
+  }
+
+  .dropdown-menu .col-6 {
+    width: 100% !important;
+    padding: 0 !important;
+  }
+} */
+
+.subservice_section{
+  left: -200px !important;
+  margin-top: -3px !important;
+}
+
+@media (min-width:375px) and (max-width:768px) {
+  .subservice_section{
+    max-width: 300px;
+  }
+  
+}
+
+@media (min-width:768px) and (max-width:1600px) {
+  .subservice_section{
+    min-width: 600px;
+  }
+  
+}
+
+.appointment_button{
+  background-color: #e63fb4;
+  font-weight: 600;
+  padding: 8px;
+  border-radius: 7px;
+}
+
+.appointment_button :hover{
+  
+}
+
+
+
+
+
+
+

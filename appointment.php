@@ -21,7 +21,7 @@
                                     <p class="mb-0 text-white-light">Please Call Us To Ensure</p>
                                 </div>
                                 <div class="col-auto d-none d-sm-block">
-                                    <a href="tel:0088123456789" class="ripple-icon style2"><i class="fas fa-phone"></i></a>
+                                    <a href="tel:9032591108" class="ripple-icon style2"><i class="fas fa-phone"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -30,8 +30,19 @@
                                 <div class="col-lg-6 form-group">
                                     <select name="service" class="form-select style3">
                                         <option hidden disabled selected>Select Services</option>
-                                        <option>Skincare Services</option>
-                                        <option>Kidneycare services</option>
+                                        <option>Laser Hair Reduction</option>
+                                        <option>Hyperpigmentation Treatment</option>
+                                        <option>Removal of Warts, Mole, Skintags</option>
+                                        <option>Hairfall Treatments(PRP & GFC)</option>
+                                        <option>Antiaging treatments like Botox</option>
+                                        <option>Acne & Acne scar treatment</option>
+                                        <option>Medifacials</option>
+                                        <option>Hydrafacial</option>
+                                        <option>Phototherapy</option>
+                                        <option>Vitiligo</option>
+                                        <option>Psoriasis</option>
+                                        <option>Eczema</option>
+                                        <!-- <option>Hyperpigmentation Treatment</option> -->
                                     </select>
                                 </div>
                                 <div class="col-lg-6 form-group">
@@ -58,7 +69,8 @@
                                     <i class="fal small fa-calendar-alt"></i>
                                 </div>
                                 <div class="col-xl-12 text-center">
-                                    <button type="submit" class="vs-btn style2">Make Appointment<i class="far fa-calendar-alt"></i></button>
+                                    <button type="submit" class="vs-btn ">Make Appointmen</button>
+                                    <!-- <button type="submit" class="vs-btn style2">Make Appointment<i class="far fa-calendar-alt"></i></button> -->
                                 </div>
                             </div>
                         </div>

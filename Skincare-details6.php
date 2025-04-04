@@ -23,7 +23,7 @@
                             </div>
                         </div>
                         <div class="col-12 col-md-6">
-                        <img src="assets/img/acne scar  middle image.jpg" alt="Service Image" class="w-100">
+                        <img src="assets/img/services_images/acne_scar.png" alt="Service Image" class="w-100">
 
                         </div>
                     </div>
@@ -109,13 +109,13 @@
 
                         <div class="row mt-40 mb-20">
                             <div class="col-lg-4 mb-30">
-                                <img src="assets/img/acne scar  footer image 1.jpg" alt="Service Image" class="w-100">
+                                <img src="assets/img/services_images/acne_scar1.png" alt="Service Image" class="w-100">
                             </div>
                             <div class="col-lg-4 mb-30">
                                 <img src="assets/img/acne scar  footer image 2.jpg" alt="Service Image" class="w-100">
                             </div>
                             <div class="col-lg-4 mb-30">
-                                <img src="assets/img/acne scar  footer image 3.jpg" alt="Service Image" class="w-100">
+                                <img src="assets/img/services_images/acne_scar3.png" alt="Service Image" class="w-100">
                             </div>
                         </div>
                         <h3>Experience the Confidence of Clear Skin:</h3>

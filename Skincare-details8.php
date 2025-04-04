@@ -94,13 +94,13 @@
 
                         <div class="row mt-40 mb-20">
                             <div class="col-lg-4 mb-30">
-                                <img src="assets/img/hydrafacial   footer image 1.jpg" alt="Service Image" class="w-100">
+                                <img src="assets/img/services_images/hydrafacial1.png" alt="Service Image" class="w-100">
                             </div>
                             <div class="col-lg-4 mb-30">
-                                <img src="assets/img/hydrafacial   footer image 2.jpg" alt="Service Image" class="w-100">
+                                <img src="assets/img/services_images/hydrafacial2.png" alt="Service Image" class="w-100">
                             </div>
                             <div class="col-lg-4 mb-30">
-                                <img src="assets/img/hydrafacial   footer image 3.jpg" alt="Service Image" class="w-100">
+                                <img src="assets/img/services_images/hydrafacial3.png" alt="Service Image" class="w-100">
                             </div>
                         </div>
                         <h3>Experience the Glow:</h3>

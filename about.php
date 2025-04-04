@@ -65,7 +65,7 @@
 
                     <!-- Left: Image and Info -->
                     <div class="col-md-6 text-center mb-4 mb-md-0">
-                        <img src="./assets/img/yeswanth.jpeg" class="img-fluid rounded-circle shadow" style="max-height: 250px;" alt="Dr. Chelikani Yaswanth">
+                        <img src="./assets/img/yeswanth.jpeg" class="img-fluid  shadow" style="max-height: 250px;" alt="Dr. Chelikani Yaswanth">
                         <h4 class="mt-3 mb-1">Dr. Chelikani Yaswanth</h4>
                         <p class="small text-dark-50 mb-0" >
                             MBBS, MD (General Medicine), DM (Nephrology)<br>

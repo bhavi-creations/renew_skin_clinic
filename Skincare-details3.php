@@ -24,7 +24,7 @@
                            
                         </div>
                         <div class="col-12 col-md-6">
-                            <img src="assets/img/Wart, Mole, and Skin Tag Removal  middle image.jpg" alt="Service Image" class="w-100">
+                            <img src="assets/img/services_images/Removal_of_warts.png" alt="Service Image" class="w-100">
 
                             </div>
                     </div>
@@ -87,13 +87,13 @@
                       
                         <div class="row mt-40 mb-20">
                             <div class="col-lg-4 mb-30">
-                                <img src="assets/img/wart removal footer image 1.jpg" alt="Service Image" class="w-100">
+                                <img src="assets/img/services_images/RemovalofWarts1.png" alt="Service Image" class="w-100">
                             </div>
                             <div class="col-lg-4 mb-30">
-                                <img src="assets/img/wart removal footer image 2.jpg" alt="Service Image" class="w-100">
+                                <img src="assets/img/services_images/RemovalofWarts2.png" alt="Service Image" class="w-100">
                             </div>
                             <div class="col-lg-4 mb-30">
-                                <img src="assets/img/wart removal footer image 3.jpg" alt="Service Image" class="w-100">
+                                <img src="assets/img/services_images/RemovalofWarts3.png" alt="Service Image" class="w-100">
                             </div>
                         </div>
                         <h3>Experience the Confidence of Blemish-Free Skin:</h3>

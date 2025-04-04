@@ -13,7 +13,7 @@
                 <img src="./assets/img/festivel_sliders/ramdhan.png" alt="Hero Image" class="ls-bg slider">
             </div> -->
             <div class="ls-slide" data-ls="duration: 4000; transition2d: 5;">
-                <img src="./assets/img/sliders/1.png" alt="Hero Image" class="ls-bg slider">
+                <img src="./assets/img/sliders/slider1.png" alt="Hero Image" class="ls-bg slider">
                 <h1 class="text-title ls-l ls-responsive" data-ls-mobile="left: 100px; top: 120px; font-size: 120px;"
                     data-ls-tablet="left: 100px; top: 80px; font-size: 92px;"
                     data-ls-laptop="left: 100px; top: 120px; font-size: 82px;"
@@ -39,7 +39,7 @@
                 </div>
             </div>
             <div class="ls-slide" data-ls="duration: 4000; transition2d: 5;">
-                <img src="assets/img/sliders/2.png" alt="Hero Image" class="ls-bg slider">
+                <img src="assets/img/sliders/slider2.png" alt="Hero Image" class="ls-bg slider">
                 <h1 class="text-title ls-l ls-responsive" data-ls-mobile="left: 100px; top: 120px; font-size: 120px;"
                     data-ls-tablet="left: 100px; top: 80px; font-size: 92px;"
                     data-ls-laptop="left: 100px; top: 120px; font-size: 82px;"
@@ -65,7 +65,7 @@
                 </div>
             </div>
             <div class="ls-slide" data-ls="duration: 4000; transition2d: 5;">
-                <img src="assets/img/sliders/3.png" alt="Hero Image" class="ls-bg slider">
+                <img src="assets/img/sliders/slider3.png" alt="Hero Image" class="ls-bg slider">
                 <h1 class="text-title ls-l ls-responsive" data-ls-mobile="left: 100px; top: 120px; font-size: 120px;"
                     data-ls-tablet="left: 100px; top: 80px; font-size: 92px;"
                     data-ls-laptop="left: 100px; top: 120px; font-size: 82px;"

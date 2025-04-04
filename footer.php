@@ -18,12 +18,13 @@
                     <div class="address-line pt-2">
                         <!-- <i class="far fa-envelope text-theme fs-md pt-2"></i> -->
                         <i class="fa-solid fa-envelope pt-2"></i>
-                        <a href="#" class="text-reset text-decoration-none fs-md pt-2">renewskinandhair@gmail.com</a>
+                        <a href="mailto:renewneurostar@gmail.com" class="text-reset text-decoration-none fs-md pt-2">renewneurostar@gmail.com                         </a>
                     </div>
                     <div class="address-line pt-2">
                         <!-- <i class="far fa-phone text-theme fs-md "></i> -->
                         <i class="fa-solid fa-phone pt-2"></i>
-                        <a href="#" class="text-reset text-decoration-none fs-md pt-2">9032591108</a>
+                        <!-- <a href="tel:9032591108"><i class="far fa-phone-alt me-2"></i>9032591108</a> -->
+                        <a href="tel:9032591108" class="text-reset text-decoration-none fs-md pt-2">9032591108</a>
                     </div>
                 </div>
 

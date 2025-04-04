@@ -32,7 +32,9 @@
                             <i class="fal fa-pencil-alt"></i>
                         </div>
                         <div class="form-btn pt-15">
-                            <button class="vs-btn style2">Send Message<i class="fas fa-chevron-right"></i></button>
+                     
+
+                            <button class="vs-btn ">Send Message</button>
                         </div>
                         <p class="form-messages mb-0 mt-3"></p>
                     </form>
@@ -64,7 +66,7 @@
                         <h4 class="pt-2 mb-10">Address</h4>
                         <p class="fs-md"><i class="far fa-map-marker-alt me-2"></i>Neurostar Hospital, B Block, Kakinada -533003</p>
                         <h4 class="pt-2 mb-2">Phone</h4>
-                        <h4 class="h3 font-theme2 mb-0"><a href="tel:880369525423"><i class="far fa-phone-alt me-2"></i>9032591108</a></h4>
+                        <h4 class="h3 font-theme2 mb-0"><a href="tel:9032591108"><i class="far fa-phone-alt me-2"></i>9032591108</a></h4>
                     </div>
                 </div>
             </div>

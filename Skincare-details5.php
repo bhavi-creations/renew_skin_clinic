@@ -25,7 +25,7 @@
                            
                         </div>
                         <div class="col-12 col-md-6">
-                            <img src="assets/img/anti aging   middle image.jpg" alt="Service Image" class="w-100">
+                            <img src="assets/img/services_images/anti_aging.png" alt="Service Image" class="w-100">
 
                             </div>
                     </div>
@@ -93,13 +93,13 @@
 
                         <div class="row mt-40 mb-20">
                             <div class="col-lg-4 mb-30">
-                                <img src="assets/img/anti aging   footer image 1.jpg" alt="Service Image" class="w-100">
+                                <img src="assets/img/services_images/anti_aging1.png" alt="Service Image" class="w-100">
                             </div>
                             <div class="col-lg-4 mb-30">
-                                <img src="assets/img/anti aging   footer image 2.jpg" alt="Service Image" class="w-100">
+                                <img src="assets/img/services_images/anti_aging2.png" alt="Service Image" class="w-100">
                             </div>
                             <div class="col-lg-4 mb-30">
-                                <img src="assets/img/anti aging   footer image 3.jpg" alt="Service Image" class="w-100">
+                                <img src="assets/img/services_images/anti_aging3.png" alt="Service Image" class="w-100">
                             </div>
                         </div>
                         <h3>Reclaim Your Youthful Glow:</h3>
