@@ -12,7 +12,7 @@
                     <div class="address-line">
                         <!-- <i class="far fa-map-marker-alt text-theme fs-md"></i> -->
                         <i class="fa-solid fa-location-dot"></i>
-                        <a href="#" class="text-reset text-decoration-none fs-md">Neurostar Hospital, B Block, Kakinada
+                        <a  class="text-reset text-decoration-none fs-md">Neurostar Hospital, B Block, Kakinada
                             -533003 </a>
                     </div>
                     <div class="address-line pt-2">

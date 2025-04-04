@@ -16,6 +16,7 @@
                     <h2 class="h1 ">Our Doctors</h2>
 
                     <p class="hover-move-up">
+                        
                         Our team of highly skilled and experienced doctors is dedicated to providing top-quality care with a patient-first approach.
                         With expertise in advanced medical treatments and a compassionate approach, our doctors ensure personalized solutions tailored to your unique needs.
                     </p>
@@ -25,20 +26,20 @@
 
 
 
-        <section style="background: url('assets/img/about_bg111.png') center/cover no-repeat; padding: 80px 0; position: relative;">
+        <section style="background: url('assets/img/12.png') center/cover no-repeat; padding: 80px 0; position: relative;" class="my-5">
             <div class="container">
                 <div class="row align-items-center text-white">
 
                     <!-- Image -->
                     <div class="col-md-6 text-center mb-4 mb-md-0">
                         <img src="./assets/img/22.png" class="img-fluid " style="max-height: 200px;" alt="">
-                        <h5 class="mt-3 mb-0 text-white">Dr. swapna</h5>
-                        <p class="small text-white-50">MBBS, MD (DVL)<br>Consultant Dermatologist & Cosmetologist</p>
+                        <h5 class="mt-3 mb-0 text-dark">Dr. swapna</h5>
+                        <p class="small text-dark">MBBS, MD (DVL)<br>Consultant Dermatologist & Cosmetologist</p>
                     </div>
 
                     <!-- Text -->
                     <div class="col-md-6">
-                        <p class="fs-5 mb-0 text-white">Laser treatments have revolutionized dermatology by offering non-invasive solutions for various skin and hair conditions. At our clinic, we use advanced FDA-approved laser technology to treat unwanted hair, acne scars, pigmentation, and signs of aging. Hair removal lasers precisely target hair follicles without damaging surrounding skin, ensuring safe and long-lasting results.
+                        <p class="fs-5 mb-0 text-dark">Laser treatments have revolutionized dermatology by offering non-invasive solutions for various skin and hair conditions. At our clinic, we use advanced FDA-approved laser technology to treat unwanted hair, acne scars, pigmentation, and signs of aging. Hair removal lasers precisely target hair follicles without damaging surrounding skin, ensuring safe and long-lasting results.
 
 </p>
                     </div>
