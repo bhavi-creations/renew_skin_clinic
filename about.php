@@ -25,20 +25,22 @@
 
 
 
-        <section style="background: url('assets/img/about_bg.png') center/cover no-repeat; padding: 80px 0; position: relative;">
+        <section style="background: url('assets/img/about_bg111.png') center/cover no-repeat; padding: 80px 0; position: relative;">
             <div class="container">
                 <div class="row align-items-center text-white">
 
                     <!-- Image -->
                     <div class="col-md-6 text-center mb-4 mb-md-0">
-                        <img src="./assets/img/2.jpeg" class="img-fluid " style="max-height: 200px;" alt="">
-                        <h5 class="mt-3 mb-0 text-white">Dr. Rao Sowmya Manasa</h5>
+                        <img src="./assets/img/22.png" class="img-fluid " style="max-height: 200px;" alt="">
+                        <h5 class="mt-3 mb-0 text-white">Dr. swapna</h5>
                         <p class="small text-white-50">MBBS, MD (DVL)<br>Consultant Dermatologist & Cosmetologist</p>
                     </div>
 
                     <!-- Text -->
                     <div class="col-md-6">
-                        <p class="fs-5 mb-0 text-white">Dr. Rao Sowmya Manasa is a highly qualified and experienced dermatologist, holding an MBBS and MD... With a passion for dermatology and cosmetology, she’s committed to providing personalised and comprehensive care.</p>
+                        <p class="fs-5 mb-0 text-white">Laser treatments have revolutionized dermatology by offering non-invasive solutions for various skin and hair conditions. At our clinic, we use advanced FDA-approved laser technology to treat unwanted hair, acne scars, pigmentation, and signs of aging. Hair removal lasers precisely target hair follicles without damaging surrounding skin, ensuring safe and long-lasting results.
+
+</p>
                     </div>
 
                 </div>
@@ -58,15 +60,16 @@
                         <div class="p-3 p-md-4  bg-opacity-50 rounded-4 shadow-sm">
                             <img src="assets/img/bg/quote-icon.png" alt="quote" style="width: 40px; margin-bottom: 15px;">
                             <p class="fs-5 mb-0 text-primary" style="font-family: 'poppins' 'Franklin Gothic Medium'">
-                                Dr. Chelikani Yaswanth is a distinguished nephrologist with a profound background, holding an MBBS, MD (General Medicine), and DM (Nephrology). With a commitment to advancing kidney care, Dr. Yaswanth plays a pivotal role in our clinic's mission to provide comprehensive and specialised services.
-                            </p>
+                            Struggling with unwanted facial hair or dull skin? Laser treatments can help you achieve smoother skin, reduce hair growth, and feel more confident in your appearance. At our clinic, we offer gentle, effective laser treatments for both men and women.
+
+</p>
                         </div>
                     </div>
 
                     <!-- Left: Image and Info -->
                     <div class="col-md-6 text-center mb-4 mb-md-0">
-                        <img src="./assets/img/yeswanth.jpeg" class="img-fluid  shadow" style="max-height: 250px;" alt="Dr. Chelikani Yaswanth">
-                        <h4 class="mt-3 mb-1">Dr. Chelikani Yaswanth</h4>
+                        <img src="./assets/img/11.png" class="img-fluid  shadow" style="max-height: 250px;" alt="Dr. Chelikani Yaswanth">
+                        <h4 class="mt-3 mb-1">Dr.  Yaswanth</h4>
                         <p class="small text-dark-50 mb-0" >
                             MBBS, MD (General Medicine), DM (Nephrology)<br>
                             Consultant Nephrologist & Transplant Physician
