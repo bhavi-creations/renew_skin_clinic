@@ -88,14 +88,14 @@
 
       
                         <div class="row mt-40 mb-20">
-                        <div class="col-lg-4 mb-30">
-                                <img src="assets\img\services_images\hyper1.png" alt="Service Image" class="w-70 h-70">
+                        <div class="col-md-4 mb-30">
+                                <img src="assets\img\services_images\hyper1.png" alt="Service Image" class="w-100">
                             </div>
-                            <div class="col-lg-4 mb-30"> 
-                                <img src="assets\img\services_images\hyper2.png" alt="Service Image" class="w-70 h-70">
+                            <div class="col-md-4 mb-30"> 
+                                <img src="assets\img\services_images\hyper2.png" alt="Service Image" class="w-100">
                             </div>
-                            <div class="col-lg-4 mb-30">
-                                <img src="assets\img\services_images\hyper3.png" alt="Service Image" class="w-70 h-70">
+                            <div class="col-md-4 mb-30">
+                                <img src="assets\img\services_images\hyper3.png" alt="Service Image" class="w-100">
                             </div>
                         </div>
                         <h3>Experience the Freedom of Radiant Skin:</h3>

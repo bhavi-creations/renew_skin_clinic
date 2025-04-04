@@ -274,57 +274,107 @@ body {
 
 
     <!-- Marquee Section -->
-    <marquee behavior="" direction="" class="" style="background-color: #e9ccd1; color: black; padding: 10px; margin: 0; display: block;">
+    <marquee behavior="" direction="" class="" style="background-color: #9488b7; color: white; padding: 10px; margin: 0; display: block;">
         Transforming Skin & Hair Health with Advanced Care &nbsp; &nbsp; // &nbsp; &nbsp; Your Trusted Partner for Radiant Skin & Healthy Hair &nbsp; &nbsp;// &nbsp; &nbsp; Expert Dermatology & Aesthetic Solutions &nbsp; &nbsp;// &nbsp; &nbsp;Innovative Treatments for Skin & Hair Rejuvenation
     </marquee>
 
  
 
     <!-- Navbar Section -->
-    <nav class="navbar navbar-expand-lg bg-light p-3" style="margin-top: 0;">
-        <div class="container-fluid">
-            <div class="header2-logo">
-                <a href="index.php"><img src="assets/img/logo.png" alt="Logo" height="80" width="100"></a>
-            </div>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
-                <ul class="navbar-nav">
-                    <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
-                    <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="Skincare-titlepage.php" id="servicesDropdown" role="button">Services</a>
-                        <ul class="dropdown-menu" aria-labelledby="servicesDropdown">
-                            <div class="row" style="z-index: 99 !important;">
-                                <div class="col navebar_menu">
-                                    <li><a class="dropdown-item" href="Skincare-details1.php">Laser Hair Reduction</a></li>
-                                    <li><a class="dropdown-item" href="Skincare-details2.php">Hyperpigmentation Treatment</a></li>
-                                    <li><a class="dropdown-item" href="Skincare-details3.php">Removal of Warts, Mole, Skintags</a></li>
-                                    <li><a class="dropdown-item" href="Skincare-details4.php">Hairfall Treatments(PRP & GFC)</a></li>
-                                    <li><a class="dropdown-item" href="Skincare-details5.php">Antiaging treatments like Botox</a></li>
-                                    <li><a class="dropdown-item" href="Skincare-details6.php">Acne & Acne scar treatment</a></li>
-                                </div>
-                                <div class="col-6">
-                                    <li><a class="dropdown-item" href="Skincare-details7.php">Medifacials</a></li>
-                                    <li><a class="dropdown-item" href="Skincare-details8.php">Hydrafacial</a></li>
-                                    <li><a class="dropdown-item" href="Skincare-details9.php">Phototherapy</a></li>
-                                    <!-- <li><a class="dropdown-item" href="Skincare-details10.php">Rashes / Itchy Hives</a></li> -->
-                                    <li><a class="dropdown-item" href="Skincare-details11.php">Vitiligo</a></li>
-                                    <li><a class="dropdown-item" href="Skincare-details12.php">Psoriasis</a></li>
-                                    <li><a class="dropdown-item" href="Skincare-details13.php">Eczema</a></li>
-                                </div>
-                            </div>
-                        </ul>
-                    </li>
-                    <li class="nav-item"><a class="nav-link" href="gallery.php">Gallery</a></li>
-                    <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
-                </ul>
-            </div>
-            <button class="d-none d-lg-block btn btn-primary me-2" id="togglebar" onclick="toggleSidebar()">☰</button> &nbsp;&nbsp;&nbsp;
-            <a href="appointment.php" class="vs-btn style2 d-none d-lg-block">Appointment<i class="fal fa-calendar-alt"></i></a>
+    <nav class="navbar navbar-expand-lg bg-light p-3" style="margin-top: 0; font-size: 18px;">
+    <div class="container-fluid">
+        <!-- Logo -->
+        <div class="header2-logo">
+            <a href="index.php"><img src="assets/img/logo.png" alt="Logo" height="80" width="100"></a>
         </div>
-    </nav>
+
+        <!-- Custom Toggle Button (☰) - Reduced Space -->
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation" style="border: 1px solid #000; padding: 4px 8px;">
+            <span style="display: block; width: 22px; height: 2px; background-color: #000; margin: 4px;"></span>
+            <span style="display: block; width: 22px; height: 2px; background-color: #000; margin: 4px;"></span>
+            <span style="display: block; width: 22px; height: 2px; background-color: #000;"></span>
+        </button>
+
+        <!-- Navbar Links -->
+        <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+                <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
+
+                <!-- Services Dropdown -->
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="Skincare-titlepage.php" id="servicesDropdown" role="button" data-bs-toggle="dropdown">
+                        Services
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="servicesDropdown">
+                        <div class="row" style="z-index: 99 !important; margin-top: -4px !important;">
+                            <div class="col navebar_menu">
+                                <li><a class="dropdown-item" href="Skincare-details1.php">Laser Hair Reduction</a></li>
+                                <li><a class="dropdown-item" href="Skincare-details2.php">Hyperpigmentation Treatment</a></li>
+                                <li><a class="dropdown-item" href="Skincare-details3.php">Removal of Warts, Mole, Skintags</a></li>
+                                <li><a class="dropdown-item" href="Skincare-details4.php">Hairfall Treatments(PRP & GFC)</a></li>
+                                <li><a class="dropdown-item" href="Skincare-details5.php">Antiaging treatments like Botox</a></li>
+                                <li><a class="dropdown-item" href="Skincare-details6.php">Acne & Acne scar treatment</a></li>
+                            </div>
+                            <div class="col-6">
+                                <li><a class="dropdown-item" href="Skincare-details7.php">Medifacials</a></li>
+                                <li><a class="dropdown-item" href="Skincare-details8.php">Hydrafacial</a></li>
+                                <li><a class="dropdown-item" href="Skincare-details9.php">Phototherapy</a></li>
+                                <li><a class="dropdown-item" href="Skincare-details11.php">Vitiligo</a></li>
+                                <li><a class="dropdown-item" href="Skincare-details12.php">Psoriasis</a></li>
+                                <li><a class="dropdown-item" href="Skincare-details13.php">Eczema</a></li>
+                            </div>
+                        </div>
+                    </ul>
+                </li>
+
+                <li class="nav-item"><a class="nav-link" href="gallery.php">Gallery</a></li>
+                <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
+            </ul>
+        </div>
+
+        <!-- Sidebar & Appointment -->
+        <button class="btn sidebar me-2 d-lg-block d-none" id="togglebar" onclick="toggleSidebar()">☰</button>
+        <a href="appointment.php" class="vs-btn style2 d-none d-lg-block">Appointment<i class="fal fa-calendar-alt"></i></a>
+    </div>
+</nav>
+
+<!-- JavaScript Fixes -->
+<!-- <script>
+document.addEventListener("DOMContentLoaded", function () {
+    var dropdown = document.querySelector('.dropdown');
+    var link = dropdown.querySelector('.nav-link');
+
+    // Enable hover dropdown in large screens
+    if (window.innerWidth >= 992) {
+        dropdown.addEventListener('mouseenter', function () {
+            dropdown.classList.add('show');
+            dropdown.querySelector('.dropdown-menu').classList.add('show');
+        });
+
+        dropdown.addEventListener('mouseleave', function () {
+            dropdown.classList.remove('show');
+            dropdown.querySelector('.dropdown-menu').classList.remove('show');
+        });
+
+        // Allow clicking "Services" to redirect on desktop
+        link.addEventListener('click', function (e) {
+            window.location.href = this.getAttribute('href');
+        });
+    }
+
+    // Toggle dropdown manually on mobile
+    link.addEventListener('click', function (e) {
+        if (window.innerWidth < 992) {
+            e.preventDefault();
+            var menu = dropdown.querySelector('.dropdown-menu');
+            menu.classList.toggle('show');
+        }
+    });
+});
+</script> -->
+
+
 
 
        <!-- Header Top Section -->

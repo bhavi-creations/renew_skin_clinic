@@ -3079,6 +3079,16 @@ fieldset:disabled .btn {
     opacity: .65
 }
 
+
+.sidebar{
+    color: #fff;
+    background-color: 
+    #f7e3ed;
+    border-color: 
+    #f7e3ed ;
+}
+
+
 .btn-primary {
     color: #fff;
     background-color: #0d6efd;

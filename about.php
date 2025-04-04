@@ -1,102 +1,97 @@
 <?php include 'header.php'; ?>
 
- <div class="breadcumb-wrapper  w-auto ">
-        <img class="mobileimg mobimg" src="./assets/img/sriabout.png" class="img-fluid"  width="6000px" />
-    </div> 
-   
-   
-    <section class="testimonial-wrapper ">
-            <div class="container">
-                <div class="row  text-center justify-content-center">
-                    <div class="col-md-10 col-lg-8 col-xl-6 wow fadeInUp" data-wow-delay="0.3s">
-                        <div class="section-title">
-                            <div class="sec-icon">
-                                <i class="flaticon-ecg"></i>
-                            </div>
-                            <h2 class="h1 ">Our Doctors</h2>
-                            <p>Our team of highly skilled and experienced doctors is dedicated to providing top-quality care with a patient-first approach. With expertise in advanced medical treatments and a compassionate approach, our doctors ensure personalized solutions tailored to your unique needs.</p>
-                        </div>
-                    </div>
-                </div>
-        
-                <div class="position-relative container">
-                    <!-- <div class="d-none d-md-block bg-top-right  position-absolute start-0 top-0 w-100 h-100" data-bg-src="assets/img/bg/testimonial-shape-1.png"></div> -->
-                        <div class="row gx-30 mb-30 mb-lg-0">
-                            <div class="col-md-5 col-lg-4 col-xl-3 z-index-common ">
-                                <div class="avater-slider-box vs-carousel" data-slide-show="1" data-md-slide-show="1" data-fade="true" data-asnavfor=".testimonail-desc-slide">
-                                    <div class="avater-slider">
-                                        <div class="avater">
-                                            <img src="./assets/img/2.jpeg" class="img-fluid w-auto" alt="Author Image">
-                                        </div>
-                                        <h3 class="mb-0 h4 font-body text-sm-center">Dr. Rao Sowmya Manasa</h3>
-                                        <span class="fs-xs text-sm-center" style="color:rgb(187, 48, 134)">MBBS, MD (DVL)
-                                            Consultant Dermatologist & Cosmetologist</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-7 col-lg-8 col-xl-8 align-self-center">
-                                <div class=" no-pl-md mt-2 mt-md-0 position-relative">
-                                    <div class="testimonail-quote"><img src="assets/img/bg/quote-icon.png" alt="quote"></div>
-                                    <div class="vs-carousel testimonail-desc-slide text-center text-md-start" data-dots="true" data-slide-show="1" data-md-slide-show="1" data-asnavfor=".avater-slider-box">
-                                        <div class="testimonail-desc">
-                                            <p class="mb-0 testi-text">Dr. Rao Sowmya Manasa is a highly qualified and experienced dermatologist, holding an MBBS and MD (Dermatology, Venereology, and Leprosy). With a passion for dermatology and cosmetology, Dr. Rao is committed to providing personalised and comprehensive care to our patients.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                </div>
+<div class="breadcumb-wrapper  w-auto ">
+    <img class="mobileimg mobimg" src="./assets/img/sriabout.png" class="img-fluid" width="6000px" />
+</div>
 
-                <div class="position-relative container">
-                    <!-- <div class="d-none d-md-block bg-top-right position-absolute start-0 top-0 w-100 h-100" data-bg-src="assets/img/bg/testimonial-shape-1.png"></div> -->
-                    <div class="row gx-30 mb-30 mb-lg-0">
-                        <div class="col-md-7 col-lg-8 col-xl-8 align-self-center d-none d-md-block">
-                            <div class=" no-pl-md mt-2 mt-md-0 position-relative">
-                                <!-- <div class="testimonail-quote"><img src="assets/img/bg/quote-icon.png" alt="quote"></div> -->
-                                <div class="vs-carousel testimonail-desc-slide text-center text-md-start" data-dots="true" data-slide-show="1" data-md-slide-show="1" data-asnavfor=".avater-slider-box">
-                                    <div class="testimonail-desc">
-                                        <p class="mb-0 testi-text">Dr. Chelikani Yaswanth is a distinguished nephrologist with a profound background, holding an MBBS, MD (General Medicine), and DM (Nephrology). With a commitment to advancing kidney care, Dr. Yaswanth plays a pivotal role in our clinic's mission to provide comprehensive and specialised services.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-5 col-lg-4 col-xl-3 z-index-common ">
-                            <div class="avater-slider-box vs-carousel" data-slide-show="1" data-md-slide-show="1" data-fade="true" data-asnavfor=".testimonail-desc-slide">
-                                <div class="avater-slider">
-                                    <div class="avater">
-                                        <!-- <img src="assets/img/author/author-3-1.jpg" alt="Author Image"> -->
-                                        <img src="./assets/img/yeswanth.jpeg" class="img-fluid"  alt="Author Image">
-                                    </div>
-                                    <h3 class="mb-0 h4 font-body">Dr. Chelikani Yaswanth </h3>
-                                    <span class="fs-xs" style="color:rgb(187, 48, 134)">MBBS, MD (General Medicine), DM (Nephrology) Consultant Nephrologist & Transplant Physician</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-7 col-lg-8 col-xl-8 align-self-center d-md-none">
-                            <div class="pl-30 no-pl-md mt-2 mt-md-0 position-relative">
-                                <div class="testimonail-quote"><img src="assets/img/bg/quote-icon.png" alt="quote"></div>
-                                <div class="vs-carousel testimonail-desc-slide text-center text-md-start" data-dots="true" data-slide-show="1" data-md-slide-show="1" data-asnavfor=".avater-slider-box">
-                                    <div class="testimonail-desc">
-                                        <p class="mb-0 testi-text">Dr. Chelikani Yaswanth is a distinguished nephrologist with a profound background, holding an MBBS, MD (General Medicine), and DM (Nephrology). With a commitment to advancing kidney care, Dr. Yaswanth plays a pivotal role in our clinic's mission to provide comprehensive and specialised services.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+
+<section class="testimonial-wrapper ">
+    <div class="">
+        <div class="row  text-center justify-content-center container">
+            <div class="col-md-10 col-lg-8 col-xl-6 wow fadeInUp" data-wow-delay="0.3s">
+                <div class="section-title">
+                    <div class="sec-icon">
+                        <i class="flaticon-ecg"></i>
                     </div>
+                    <h2 class="h1 ">Our Doctors</h2>
+
+                    <p class="hover-move-up">
+                        Our team of highly skilled and experienced doctors is dedicated to providing top-quality care with a patient-first approach.
+                        With expertise in advanced medical treatments and a compassionate approach, our doctors ensure personalized solutions tailored to your unique needs.
+                    </p>
                 </div>
             </div>
-    </section>
+        </div>
 
 
 
-    
-      <!-- Header Section with Logo and Contact Info -->
-     
+        <section style="background: url('assets/img/about_bg.png') center/cover no-repeat; padding: 80px 0; position: relative;">
+            <div class="container">
+                <div class="row align-items-center text-white">
 
-    <!-- Mobile view -->
-                
+                    <!-- Image -->
+                    <div class="col-md-6 text-center mb-4 mb-md-0">
+                        <img src="./assets/img/2.jpeg" class="img-fluid " style="max-height: 200px;" alt="">
+                        <h5 class="mt-3 mb-0 text-white">Dr. Rao Sowmya Manasa</h5>
+                        <p class="small text-white-50">MBBS, MD (DVL)<br>Consultant Dermatologist & Cosmetologist</p>
+                    </div>
+
+                    <!-- Text -->
+                    <div class="col-md-6">
+                        <p class="fs-5 mb-0 text-white">Dr. Rao Sowmya Manasa is a highly qualified and experienced dermatologist, holding an MBBS and MD... With a passion for dermatology and cosmetology, she’s committed to providing personalised and comprehensive care.</p>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+
+
+        <section style="background: url('assets/img/abour_2.png') center/cover no-repeat; padding: 80px 0; position: relative;">
+            <div class="container">
+                <div class="row align-items-center text-white">
+
+
+
+                    <!-- Right: Description -->
+                    <div class="col-md-6">
+                        <div class="p-3 p-md-4  bg-opacity-50 rounded-4 shadow-sm">
+                            <img src="assets/img/bg/quote-icon.png" alt="quote" style="width: 40px; margin-bottom: 15px;">
+                            <p class="fs-5 mb-0 text-primary" style="font-family: 'poppins' 'Franklin Gothic Medium'">
+                                Dr. Chelikani Yaswanth is a distinguished nephrologist with a profound background, holding an MBBS, MD (General Medicine), and DM (Nephrology). With a commitment to advancing kidney care, Dr. Yaswanth plays a pivotal role in our clinic's mission to provide comprehensive and specialised services.
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- Left: Image and Info -->
+                    <div class="col-md-6 text-center mb-4 mb-md-0">
+                        <img src="./assets/img/yeswanth.jpeg" class="img-fluid rounded-circle shadow" style="max-height: 250px;" alt="Dr. Chelikani Yaswanth">
+                        <h4 class="mt-3 mb-1">Dr. Chelikani Yaswanth</h4>
+                        <p class="small text-dark-50 mb-0" >
+                            MBBS, MD (General Medicine), DM (Nephrology)<br>
+                            Consultant Nephrologist & Transplant Physician
+                        </p>
+                    </div>
+
+
+
+                </div>
+            </div>
+        </section>
+
+
+    </div>
+</section>
+
+
+
+
+
+<!-- Header Section with Logo and Contact Info -->
+
+
+<!-- Mobile view -->
+
 <!-- 
             <div class="position-relative">
                 <div class="d-none d-md-block bg-top-right  position-absolute start-0 top-0 w-100 h-100" ></div>
@@ -165,10 +160,10 @@
 
         </div>
     </section> -->
-    <!--==============================
+<!--==============================
     Blog Area
     ==============================-->
-    <!-- <section class="vs-blog-wrapper space-md-bottom space-top">
+<!-- <section class="vs-blog-wrapper space-md-bottom space-top">
         <div class="container">
             <div class="row  text-center justify-content-center">
                 <div class="col-md-10 col-lg-8 col-xl-6 wow fadeInUp" data-wow-delay="0.3s">
@@ -261,10 +256,10 @@
             </div>
         </div>
     </section> -->
-    <!--==============================
+<!--==============================
     Brand Area
     ==============================-->
-    <!-- <div class="vs-brand-wrapper space-md bg-light">
+<!-- <div class="vs-brand-wrapper space-md bg-light">
         <div class="container">
             <div class="wow fadeInUp" data-wow-delay="0.3s">
                 <div class="row vs-carousel text-center" data-slide-show="5" data-lg-slide-show="4" data-md-slide-show="3" data-sm-slide-show="3" data-xs-slide-show="1">
@@ -302,10 +297,10 @@
             </div>
         </div>
     </div> -->
-    <!--==============================
+<!--==============================
 			Footer Area
 	==============================-->
-    <!-- <footer class="footer-wrapper footer-layout1" data-bg-src="assets/img/bg/bg-shape-4.png">
+<!-- <footer class="footer-wrapper footer-layout1" data-bg-src="assets/img/bg/bg-shape-4.png">
         <div class="container-fluid" style="background-color:rgb(11, 53, 87)">
             <div class="footer-top">
                 <div class="row align-items-center justify-content-between" style="background-color:#27477D">

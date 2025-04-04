@@ -2375,7 +2375,7 @@ textarea.form-control.is-invalid {
 }
 /*------------------- 3.8. Text Color -------------------*/
 .text-theme {
-  color: var(--theme-color) !important;
+  color: #c28d96 !important;
 }
 
 .text-title {
@@ -11285,3 +11285,34 @@ blockquote cite:before {
 text-align: center !important;
 }
 
+
+
+
+
+/* about  */
+.animated-card {
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+.animated-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
+
+.card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+}
+
+
+.hover-move-up {
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
+
+.hover-move-up:hover {
+  transform: translateY(-10px);
+}

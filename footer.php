@@ -4,7 +4,7 @@
     <footer class="footer-wrapper footer-layout1" data-bg-src="assets/img/bg/bg-shape-4.png">
         <div class="container-fluid" style="background-color:rgb(11, 53, 87)">
             <!-- <div class="footer-top" style="background-color:rgb(197, 201, 204)"> -->
-            <div class="row align-items-center justify-content-between p-2 px-5" style="background-color:#9488b7
+            <div class="row align-items-center justify-content-between py-3 px-5" style="background-color:#9488b7
 
 ">
 
@@ -29,7 +29,7 @@
 
 
                 <div class="col-md-6  col-lg-4 col-12 col-md-auto text-center  ">
-                    <div class="footer1-logo">
+                    <div class="">
                         <a href="index.php"><img src="assets/img/logo.png" alt="Logo" style="border-radius:50%"
                                 height="120" width="200"></a>
                     </div>

@@ -16,7 +16,7 @@
   <div class="container">
     <div class="row">
       <div class="container">
-        <div class="row  text-center  my-5  ">
+        <div class="row  text-center    ">
           <div class="col-12 col-md-6 d-flex flex-direction-row align-items-center wow fadeInUp" data-wow-delay="0.3s">
             <div class="section-title">
               <span class="h3 text-theme sec-subtitle" style="font-size:45px">Laser Hair Reduction</span>
@@ -110,13 +110,13 @@
 
 
           <div class="row mt-40 mb-20">
-            <div class="col-lg-4 mb-30">
+            <div class="col-md-4 mb-30">
               <img src="assets\img\services_images\laser1.png" alt="Service Image" class="w-100">
             </div>
-            <div class="col-lg-4 mb-30">
+            <div class="col-md-4 mb-30">
               <img src="assets\img\services_images\laser2.png" alt="Service Image" class="w-100">
             </div>
-            <div class="col-lg-4 mb-30">
+            <div class="col-md-4 mb-30">
               <img src="assets\img\services_images\laser3.png" alt="Service Image" class="w-100">
             </div>
           </div>

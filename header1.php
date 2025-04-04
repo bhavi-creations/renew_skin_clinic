@@ -82,3 +82,40 @@
 
 </body>
 </html>
+
+
+<div style="background-image: url('assets/img/about_bg.png'); background-size: cover; background-position: center; background-repeat: no-repeat;">
+    <div class="container d-flex align-items-center py-5" style="min-height: 600px;">
+        <div class="row gx-4 w-100">
+            <!-- Left: Image and Info -->
+            <div class="col-md-6 col-12 z-index-common" style="padding:40px;">
+                <div class="avater-slider-box vs-carousel" data-slide-show="1" data-md-slide-show="1" data-fade="true" data-asnavfor=".testimonail-desc-slide">
+                    <div class="avater-slider text-center">
+                        <div class="avater mb-3">
+                            <img src="./assets/img/2.jpeg" class="img-fluid w-auto" alt="Author Image" style="max-height: 250px;">
+                        </div>
+                        <h3 class="mb-0 h4 font-body text-white">Dr. Rao Sowmya Manasa</h3>
+                        <span class="fs-xs" style="color:rgb(187, 48, 134)">MBBS, MD (DVL)<br>
+                            Consultant Dermatologist & Cosmetologist</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right: Content -->
+            <div class="col-md-6 col-12 align-self-center" style="padding:40px;">
+                <div class="position-relative">
+                    <div class="testimonail-quote mb-3">
+                        <img src="assets/img/bg/quote-icon.png" alt="quote">
+                    </div>
+                    <div class="vs-carousel testimonail-desc-slide text-center text-md-start" data-dots="true" data-slide-show="1" data-md-slide-show="1" data-asnavfor=".avater-slider-box">
+                        <div class="testimonail-desc">
+                            <p class="mb-0 testi-text text-white">
+                                Dr. Rao Sowmya Manasa is a highly qualified and experienced dermatologist, holding an MBBS and MD (Dermatology, Venereology, and Leprosy). With a passion for dermatology and cosmetology, Dr. Rao is committed to providing personalised and comprehensive care to our patients.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> 
+</div>
