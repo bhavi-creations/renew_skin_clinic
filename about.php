@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 
 <div class="breadcumb-wrapper  w-auto ">
-    <img class="mobileimg mobimg" src="./assets/img/sriabout.png" class="img-fluid" width="6000px" />
+    <img class="mobileimg mobimg" src="./assets/img/doctors_about.png" class="img-fluid" width="6000px" />
 </div>
 
 

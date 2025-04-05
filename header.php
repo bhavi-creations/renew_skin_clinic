@@ -302,7 +302,7 @@
 
             <!-- Navbar Links -->
             <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ms-auto d-flex align-items-center gap-3">
+                <ul class="navbar-nav ms-auto  gap-3">
                     <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
                     <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
 
@@ -434,30 +434,43 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
     <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const dropdown = document.querySelector(".nav-item.dropdown");
-            const dropdownToggle = document.querySelector("#servicesDropdown");
-            const dropdownMenu = document.querySelector(".dropdown-menu");
+    document.addEventListener("DOMContentLoaded", function () {
+        const dropdownToggle = document.getElementById("servicesDropdown");
+        const dropdownMenu = document.querySelector(".dropdown-menu");
 
-            // Function to toggle dropdown on click for mobile/tablet
-            function toggleDropdown(event) {
-                if (window.innerWidth < 992) { // Only for screens smaller than lg
-                    event.preventDefault(); // Prevent default link action
-                    dropdownMenu.classList.toggle("show");
-                }
+        const isMobile = () => window.innerWidth < 992;
+
+        // Immediate dropdown toggle on mobile
+        dropdownToggle.onclick = function (e) {
+            if (isMobile()) {
+                e.preventDefault();
+                // Close other open dropdowns if needed
+                document.querySelectorAll('.dropdown-menu.show').forEach(menu => {
+                    if (menu !== dropdownMenu) menu.classList.remove('show');
+                });
+                dropdownMenu.classList.toggle("show");
             }
+        };
 
-            // Event listener for click (Mobile & Tablet)
-            dropdownToggle.addEventListener("click", toggleDropdown);
-
-            // Hide dropdown when clicking outside (Mobile & Tablet)
-            document.addEventListener("click", function(event) {
-                if (!dropdown.contains(event.target)) {
+        // Close dropdown when clicking outside (mobile only)
+        document.addEventListener("click", function (e) {
+            if (isMobile()) {
+                const isClickInside = dropdownToggle.contains(e.target) || dropdownMenu.contains(e.target);
+                if (!isClickInside) {
                     dropdownMenu.classList.remove("show");
                 }
-            });
+            }
         });
-    </script>
+
+        // Ensure menu closes when switching to desktop
+        window.addEventListener("resize", function () {
+            if (!isMobile()) {
+                dropdownMenu.classList.remove("show");
+            }
+        });
+    });
+</script>
+
 
 
 

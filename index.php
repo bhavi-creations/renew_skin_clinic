@@ -147,7 +147,7 @@
             <div class="col-xl-4 mb-25">
                 <div class="service-box ">
                     <div class="sr-img">
-                        <img src="assets/img/laser hair title.jpg" alt="Service Image" class="w-100">
+                        <img src="assets/img/services_images/laserserviceimage1.png" alt="Service Image" class="w-100">
                     </div>
                     <div class="sr-icon" id="sr-icong">
                         <i class="flaticon-computer-mouse"></i>
@@ -164,7 +164,7 @@
             <div class="col-xl-4 mb-25">
                 <div class="service-box ">
                     <div class="sr-img">
-                        <img src="assets/img/Hyperpigmentation Treatment  title image.jpg" alt="Service Image"
+                        <img src="assets/img/services_images/Hyperpigmentationimage.png" alt="Service Image"
                             class="w-100">
                     </div>
                     <div class="sr-icon" id="sr-icong">
@@ -184,7 +184,7 @@
             <div class="col-xl-4 mb-25">
                 <div class="service-box ">
                     <div class="sr-img">
-                        <img src="https://res.cloudinary.com/dczwucjot/image/upload/v1700151364/Wart_Mole_and_Skin_Tag_Removal_title_image_elbyzs.jpg"
+                        <img src="assets/img/services_images/removalofwarts.png"
                             alt="Service Image" class="w-100">
                     </div>
                     <div class="sr-icon" id="sr-icong">
@@ -208,7 +208,7 @@
             <div class="col-xl-4 mb-25">
                 <div class="service-box ">
                     <div class="sr-img">
-                        <img src="assets/img/Hairfall Treatments title image.jpg" alt="Service Image" class="w-100">
+                        <img src="assets/img/services_images/hairfall.png" alt="Service Image" class="w-100">
                     </div>
                     <div class="sr-icon" id="sr-icong">
                         <i class="flaticon-computer-mouse"></i>
@@ -226,7 +226,7 @@
             <div class="col-xl-4 mb-25">
                 <div class="service-box ">
                     <div class="sr-img">
-                        <img src="assets/img/anti aging treatment title image.jpg" alt="Service Image" class="w-100">
+                        <img src="assets/img/services_images/anti_aging_treatments.png" alt="Service Image" class="w-100">
                     </div>
                     <div class="sr-icon" id="sr-icong">
                         <i class="flaticon-blood-pressure"></i>
@@ -245,7 +245,7 @@
             <div class="col-xl-4 mb-25">
                 <div class="service-box ">
                     <div class="sr-img">
-                        <img src="assets/img/Acne and acne scar treatment title image.jpg" alt="Service Image"
+                        <img src="assets/img/services_images/Acne_and _cne.png" alt="Service Image"
                             class="w-100">
                     </div>
                     <div class="sr-icon" id="sr-icong">
